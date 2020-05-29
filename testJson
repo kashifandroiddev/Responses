@@ -1,26 +1,59 @@
-{"widget": {
-    "debug": "on",
-    "window": {
-        "title": "Sample Konfabulator Widget",
-        "name": "main_window",
-        "width": 500,
-        "height": 500
-    },
-    "image": { 
-        "src": "Images/Sun.png",
-        "name": "sun1",
-        "hOffset": 250,
-        "vOffset": 250,
-        "alignment": "center"
-    },
-    "text": {
-        "data": "Click Here",
-        "size": 36,
-        "style": "bold",
-        "name": "text1",
-        "hOffset": 250,
-        "vOffset": 100,
-        "alignment": "center",
-        "onMouseUp": "sun1.opacity = (sun1.opacity / 100) * 90;"
-    }
-}}    
+{
+  "http_response": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "category": [
+      {
+        "id": "1",
+        "title": "BANKS"
+      },
+      {
+        "id": "2",
+        "title": "ATMS"
+      },
+      {
+        "id": "3",
+        "title": "UNIVERSITY"
+      },
+      {
+        "id": "4",
+        "title": "SHOPS"
+      },
+      {
+        "id": "5",
+        "title": "FUEL STATIONS"
+      },
+      {
+        "id": "6",
+        "title": "CLOTHS"
+      }
+    ],
+    "banner": [
+      {
+        "id": "1",
+        "image": "https://casasensei.com/wp-content/uploads/2019/06/South-Indian-Bruschetta-Recipe.jpg"
+      },
+      {
+        "id": "2",
+        "title": "https://thenypost.files.wordpress.com/2019/09/junk-food-turns-kid-blind.jpg?quality=90&strip=all&w=618&h=410&crop=1"
+      },
+      {
+        "id": "3",
+        "title": "https://images2.minutemediacdn.com/image/upload/c_crop,h_1126,w_2000,x_0,y_181/f_auto,q_auto,w_1100/v1554932288/shape/mentalfloss/12531-istock-637790866.jpg"
+      },
+      {
+        "id": "4",
+        "image": "https://casasensei.com/wp-content/uploads/2019/06/South-Indian-Bruschetta-Recipe.jpg"
+      },
+      {
+        "id": "5",
+        "image": "https://thenypost.files.wordpress.com/2019/09/junk-food-turns-kid-blind.jpg?quality=90&strip=all&w=618&h=410&crop=1"
+      },
+      {
+        "id": "6",
+        "image": "https://images2.minutemediacdn.com/image/upload/c_crop,h_1126,w_2000,x_0,y_181/f_auto,q_auto,w_1100/v1554932288/shape/mentalfloss/12531-istock-637790866.jpg"
+      }
+    ]
+  }
+}
