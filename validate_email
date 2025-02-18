@@ -1,0 +1,12 @@
+{
+  "data": {
+    "message": "Email already exists",
+    "is_user_exist": true
+  },
+  "message": "Email already exists",
+  "title": "Email already exists",
+  "success": false,
+  "cmd": "/et_rs_prd/web/v801/validate/email?",
+  "http_response": 422,
+  "code": 0
+}
