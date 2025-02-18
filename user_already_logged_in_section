@@ -1,0 +1,16 @@
+{
+  "message": "You will be signed out form all other devices",
+  "code": 200,
+  "success": false,
+  "data": {
+    "user_already_logged_in_section": {
+      "title": "You'll be signed out elsewhere",
+      "message": "By logging in, your account will be logged out of the other device.",
+      "image": "https://b2cappassetscdn.theentertainerme.com/icons/family/lock_icon.png",
+      "yes_button_title": "Yes, login with this device",
+      "no_button_title": "Cancel"
+    }
+  },
+  "cmd": "/et_rs_prd/web/v801/sessions?",
+  "http_response": 200
+}
