@@ -1,0 +1,48 @@
+{
+  "data": {
+    "member_info": {
+      "is_expired": false,
+      "is_grace_period_running": false,
+      "is_primary_member": true,
+      "button_title": "Close Family Account",
+      "button_color": "c93a20",
+      "family_delete_message": "Are you sure you want to close your ENTERTAINER family account?",
+      "primary_member_name": "kashif ali",
+      "purchased_product_id": [
+        "53368",
+        "53378",
+        "53436"
+      ]
+    },
+    "family_list_section": {
+      "total_members": 1,
+      "family_created_date": "2023-07-19 11:34:52",
+      "family_created_by": "Family created by you",
+      "max_member_limit": 3,
+      "header_section": {
+        "title": "FAMILY TREE",
+        "limit_text": "1/3"
+      },
+      "members": [
+        {
+          "name": "Bro",
+          "profile_img": null,
+          "member_status": 1,
+          "status": "Active",
+          "color": "95d241",
+          "status_img": "https://b2cappassetscdn.theentertainerme.com/icons/family/Active.png",
+          "remove_img": "https://b2cappassetscdn.theentertainerme.com/icons/family/delete_icon.png",
+          "identifier": "89cb0402-09b2-4225-875b-a4bf4e929f4e",
+          "is_deletion_allowed": 0,
+          "is_enabled": 1,
+          "member_color": "#3E9FB2"
+        }
+      ]
+    }
+  },
+  "success": true,
+  "message": "success",
+  "cmd": "/et_rs_prd/web/v801/family/familyinfo?",
+  "http_response": 200,
+  "code": 0
+}
