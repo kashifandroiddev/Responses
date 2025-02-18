@@ -1,0 +1,1494 @@
+{
+  "data": {
+    "config": [
+      {
+        "key": "log_analytics",
+        "value": "true",
+        "os": "ios"
+      },
+      {
+        "key": "log_analytics",
+        "value": "true",
+        "os": "wp"
+      },
+      {
+        "key": "log_analytics",
+        "value": "true",
+        "os": "android"
+      },
+      {
+        "key": "is_gamification_on",
+        "value": "true",
+        "os": "ios"
+      },
+      {
+        "key": "is_gamification_on",
+        "value": "true",
+        "os": "wp"
+      },
+      {
+        "key": "is_gamification_on",
+        "value": "true",
+        "os": "android"
+      },
+      {
+        "key": "locations",
+        "value": "109",
+        "os": "all"
+      }
+    ],
+    "app_rating_info": {
+      "default_number_of_sessions_to_ask_for_rating": 2,
+      "show_popup": false,
+      "minimum_rating_to_ask_for_feedback": 5,
+      "rating_value_minimum": 1,
+      "rating_value_maximum": 10,
+      "rating_message_not_likely": "Not Likely",
+      "rating_message_extremely_likely": "Extremely Likely",
+      "rating_message_in_app": "How likely are you to recommend the ENTERTAINER?",
+      "rating_message_app_store": "How about rating us on the app store?",
+      "feedback_message_in_app": "Please suggest what we can do better?",
+      "rating_message_title": "Please rate from 1 to 10",
+      "feedback_message_title": "Please enter feedback",
+      "feedback_message_error": "Please enter feedback",
+      "feedback_placeholder_text": "Enter your feedback here",
+      "button_text_no_thanks": "NO, THANKS",
+      "button_text_submit": "SUBMIT",
+      "button_text_appstore": "OK, SURE"
+    },
+    "cart_url": "https://entcartut.theentertainerme.com/products?et=1&utm_source=app&utm_medium=cart-icon&utm_campaign=cart_icon_app_gbl",
+    "referer_url": "https://entcartut.theentertainerme.com/products",
+    "ping_sharing_branch_url": "https://entertainer.test-app.link/pingsharing?",
+    "ping_sharing_message": "Hey, [SENDER_NAME] has pinged you offer(s) for [MERCHANT_NAME]. Please click here to accept and use.",
+    "email_preference_url": "http://entcartut.theentertainerme.com/user/preferences?__t=e7bc2ed3-2348-4df4-9882-22537e6b0788&",
+    "analytics_url": "https://api.theentertainerme.com/api_analytics/web/v2/",
+    "getaways_popup_info": {
+      "show_getaways_pre_popup": false,
+      "background_image": "https://entertainer-app-assets.s3.amazonaws.com/untitled_2_1.png",
+      "screen_title": "Epic holidays and better savings",
+      "sections": [
+        {
+          "section_background_image": "https://s3-eu-west-1.amazonaws.com/cdngtwys.theentertainerme.com/travel-section-bg-new.png",
+          "section_button_accessory_image": "",
+          "section_button_background_color": "2f85fe",
+          "section_button_title": "Explore Offers",
+          "section_identifier": "travel_category",
+          "section_title": "Discover & book",
+          "section_top_image": "https://entertainer-app-assets.s3.amazonaws.com/group_616.png",
+          "section_description": "Everyone loves a holiday! and now you can experience 100\u2019s of hotels and restaurants with a twist, you save while doing so!",
+          "section_background_color": "",
+          "section_my_booking_text": "My bookings",
+          "deep_link": ""
+        },
+        {
+          "section_identifier": "getaways_coming_soon",
+          "section_title": "Coming soon",
+          "section_description": "we are upgrading your travel experience in the near future to bring you the best, stay tuned!",
+          "section_background_color": "",
+          "section_button_accessory_image": "",
+          "section_button_background_color": "2f85fe",
+          "section_button_title": "",
+          "section_top_image": "https://entertainer-app-assets.s3.amazonaws.com/group.png",
+          "section_my_booking_text": "",
+          "deep_link": ""
+        }
+      ]
+    },
+    "cheers_rules": [
+      {
+        "id": 4,
+        "location_id": 1,
+        "product_id": 8521,
+        "product_sku": "D20DBCHCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "age_limit": 21,
+        "cheers_logo_url": "https://b2cappassetscdn.theentertainerme.com/cheers-logo_inter.png",
+        "redemption_message": "Please enter your PIN to confirm redemption, that you are of legal drinking age and non-Muslim",
+        "product_information": "Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across Dubai for 2020",
+        "message_for_legal_terms": "In order to continue you must be of legal drinking age and understand this product may contain references to alcohol.By continuing, you confirm that you understand this and agree to our End User License Agreement",
+        "consent_confirmation_message": "       I confirm I am of legal drinking age & \n       non - Muslim \n\nDD/MM/YYYY is my date of birth",
+        "age_restriction_message": "Sorry, you must be 21 years or over and non-Muslim to access this product",
+        "redemption_confirm_message": "Confirm your 4-digit PIN, and that you are of legal drinking age and non-Muslim",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 7,
+        "location_id": 2,
+        "product_id": 8828,
+        "product_sku": "D20ADCHCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "age_limit": 21,
+        "cheers_logo_url": "https://b2cappassetscdn.theentertainerme.com/cheers-logo_inter.png",
+        "redemption_message": "Please enter your PIN to confirm redemption, that you are of legal drinking age and non-Muslim",
+        "product_information": "Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across Abu Dhabi & Al Ain.",
+        "message_for_legal_terms": "In order to continue you must be of legal drinking age and understand this product may contain references to alcohol.By continuing, you confirm that you understand this and agree to our End User License Agreement",
+        "consent_confirmation_message": "       I confirm I am of legal drinking age & \n       non - Muslim \n\nDD/MM/YYYY is my date of birth",
+        "age_restriction_message": "Sorry, you must be 21 years or over and non-Muslim to access this product",
+        "redemption_confirm_message": "Confirm your 4-digit PIN, and that you are of legal drinking age and non-Muslim",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 13,
+        "location_id": 4,
+        "product_id": 9017,
+        "product_sku": "D20CTCHCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "age_limit": 18,
+        "cheers_logo_url": "https://b2cappassetscdn.theentertainerme.com/cheers-logo_inter.png",
+        "redemption_message": "Please enter your PIN to confirm redemption, that you are of legal drinking age",
+        "product_information": "Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across Cape Town.",
+        "message_for_legal_terms": "In order to continue you must be of legal drinking age and understand this product may contain references to alcohol.By continuing, you confirm that you understand this and agree to our End User License Agreement",
+        "consent_confirmation_message": "       I confirm I am of legal \n      drinking age \n        \nDD/MM/YYYY is my date of birth",
+        "age_restriction_message": "Sorry, you must be 18 years or over to access this product",
+        "redemption_confirm_message": "Confirm your 4-digit PIN, and that you are of legal drinking age",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 16,
+        "location_id": 11,
+        "product_id": 8407,
+        "product_sku": "D20SPCHCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "age_limit": 18,
+        "cheers_logo_url": "https://b2cappassetscdn.theentertainerme.com/cheers-logo_inter.png",
+        "redemption_message": "Please enter your PIN to confirm redemption, that you are of legal drinking age",
+        "product_information": "Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across Singapore.",
+        "message_for_legal_terms": "In order to continue you must be of legal drinking age and understand this product may contain references to alcohol.By continuing, you confirm that you understand this and agree to our End User License Agreement",
+        "consent_confirmation_message": "       I confirm I am of legal \n      drinking age \n        \nDD/MM/YYYY is my date of birth",
+        "age_restriction_message": "Sorry, you must be 18 years or over to access this product",
+        "redemption_confirm_message": "Confirm your 4-digit PIN, and that you are of legal drinking age",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 19,
+        "location_id": 13,
+        "product_id": 9192,
+        "product_sku": "D20HKCHCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "age_limit": 18,
+        "cheers_logo_url": "https://b2cappassetscdn.theentertainerme.com/cheers-logo_inter.png",
+        "redemption_message": "Please enter your PIN to confirm redemption, that you are of legal drinking age",
+        "product_information": "Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across Hong Kong.",
+        "message_for_legal_terms": "In order to continue you must be of legal drinking age and understand this product may contain references to alcohol.By continuing, you confirm that you understand this and agree to our End User License Agreement",
+        "consent_confirmation_message": "       I confirm I am of legal \n      drinking age \n        \nDD/MM/YYYY is my date of birth",
+        "age_restriction_message": "Sorry, you must be 18 years or over to access this product",
+        "redemption_confirm_message": "Confirm your 4-digit PIN, and that you are of legal drinking age",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 23,
+        "location_id": 14,
+        "product_id": 9013,
+        "product_sku": "D20JBCHCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "age_limit": 18,
+        "cheers_logo_url": "https://b2cappassetscdn.theentertainerme.com/cheers-logo_inter.png",
+        "redemption_message": "Please enter your PIN to confirm redemption, that you are of legal drinking age",
+        "product_information": "Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across Johannesburg & Pretoria.",
+        "message_for_legal_terms": "In order to continue you must be of legal drinking age and understand this product may contain references to alcohol.By continuing, you confirm that you understand this and agree to our End User License Agreement",
+        "consent_confirmation_message": "       I confirm I am of legal \n      drinking age \n        \nDD/MM/YYYY is my date of birth",
+        "age_restriction_message": "Sorry, you must be 18 years or over to access this product",
+        "redemption_confirm_message": "Confirm your 4-digit PIN, and that you are of legal drinking age",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 22,
+        "location_id": 15,
+        "product_id": 8997,
+        "product_sku": "D20MYCHCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "age_limit": 21,
+        "cheers_logo_url": "https://b2cappassetscdn.theentertainerme.com/cheers-logo_inter.png",
+        "redemption_message": "Please enter your PIN to confirm redemption, that you are of legal drinking age",
+        "product_information": "Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across Malaysia.",
+        "message_for_legal_terms": "In order to continue you must be of legal drinking age and understand this product may contain references to alcohol.By continuing, you confirm that you understand this and agree to our End User License Agreement",
+        "consent_confirmation_message": "       I confirm I am of legal \n      drinking age & \n        \nDD/MM/YYYY is my date of birth",
+        "age_restriction_message": "Sorry, you must be 21 years or over to access this product",
+        "redemption_confirm_message": "Confirm your 4-digit PIN, and that you are of legal drinking age",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 10,
+        "location_id": 17,
+        "product_id": 6451,
+        "product_sku": "D20UKUKCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "age_limit": 18,
+        "cheers_logo_url": "https://b2cappassetscdn.theentertainerme.com/cheers-logo_inter.png",
+        "redemption_message": "Please enter your PIN to confirm redemption, that you are of legal drinking age",
+        "product_information": "Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across London.",
+        "message_for_legal_terms": "In order to continue you must be of legal drinking age and understand this product may contain references to alcohol.By continuing, you confirm that you understand this and agree to our End User License Agreement",
+        "consent_confirmation_message": "       I confirm I am of legal \n      drinking age \n        \nDD/MM/YYYY is my date of birth",
+        "age_restriction_message": "Sorry, you must be 18 years or over to access this product",
+        "redemption_confirm_message": "Confirm your 4-digit PIN, and that you are of legal drinking age",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 26,
+        "location_id": 20,
+        "product_id": 8636,
+        "product_sku": "D20SADUCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "age_limit": 18,
+        "cheers_logo_url": "https://b2cappassetscdn.theentertainerme.com/cheers-logo_inter.png",
+        "redemption_message": "Please enter your PIN to confirm redemption, that you are of legal drinking age",
+        "product_information": "Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across Durban.",
+        "message_for_legal_terms": "In order to continue you must be of legal drinking age and understand this product may contain references to alcohol.By continuing, you confirm that you understand this and agree to our End User License Agreement",
+        "consent_confirmation_message": "       I confirm I am of legal \n      drinking age \n        \nDD/MM/YYYY is my date of birth",
+        "age_restriction_message": "Sorry, you must be 18 years or over to access this product",
+        "redemption_confirm_message": "Confirm your 4-digit PIN, and that you are of legal drinking age",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 56,
+        "location_id": 3,
+        "product_id": 8470,
+        "product_sku": "D20BHBHCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "age_limit": 21,
+        "cheers_logo_url": "https://b2cappassetscdn.theentertainerme.com/cheers-logo_inter.png",
+        "redemption_message": "Please enter your PIN to confirm redemption, that you are of legal drinking age and legally permitted to use this product",
+        "product_information": "Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across Bahrain for 2020",
+        "message_for_legal_terms": "In order to continue you must be of legal drinking age and understand this product may contain references to alcohol.By continuing, you confirm that you understand this and agree to our End User License Agreement",
+        "consent_confirmation_message": "       I confirm I am of legal drinking age & \n       legally permitted to use this product\n       which contains references to alcohol: \n\n My date of birth is: DD/MM/YYYY",
+        "age_restriction_message": "Sorry, you must be 21 years or over and legally permitted to use this product",
+        "redemption_confirm_message": "Confirm your 4-digit PIN, and that you are of legal drinking age",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 68,
+        "location_id": 21,
+        "product_id": 9038,
+        "product_sku": "D20MTFMCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "age_limit": 17,
+        "cheers_logo_url": "https://b2cappassetscdn.theentertainerme.com/cheers-logo_inter.png",
+        "redemption_message": "Please enter your PIN to confirm redemption, that you are of legal drinking age",
+        "product_information": "Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across Malta.",
+        "message_for_legal_terms": "In order to continue you must be of legal drinking age and understand this product may contain references to alcohol.By continuing, you confirm that you understand this and agree to our End User License Agreement",
+        "consent_confirmation_message": "       I confirm I am of legal \n      drinking age \n        \nDD/MM/YYYY is my date of birth",
+        "age_restriction_message": "Sorry, you must be 17 years or over to access this product",
+        "redemption_confirm_message": "Confirm your 4-digit PIN, and that you are of legal drinking age",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 71,
+        "location_id": 5,
+        "product_id": 8713,
+        "product_sku": "D20CYCYCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "age_limit": 17,
+        "cheers_logo_url": "https://b2cappassetscdn.theentertainerme.com/cheers-logo_inter.png",
+        "redemption_message": "Please enter your PIN to confirm redemption, that you are of legal drinking age",
+        "product_information": "Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across Cyprus.",
+        "message_for_legal_terms": "In order to continue you must be of legal drinking age and understand this product may contain references to alcohol.By continuing, you confirm that you understand this and agree to our End User License Agreement",
+        "consent_confirmation_message": "       I confirm I am of legal \n      drinking age \n        \nDD/MM/YYYY is my date of birth",
+        "age_restriction_message": "Sorry, you must be 17 years or over to access this product",
+        "redemption_confirm_message": "Confirm your 4-digit PIN, and that you are of legal drinking age",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 74,
+        "location_id": 46,
+        "product_id": 4275,
+        "product_sku": "D18BABACP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "age_limit": 17,
+        "cheers_logo_url": "https://b2cappassetscdn.theentertainerme.com/cheers-logo_inter.png",
+        "redemption_message": "Please enter your PIN to confirm redemption, that you are of legal drinking age",
+        "product_information": "Hundreds of Buy One Get One Free offers for drinks in the best restaurants, bars and nightspots across Bali.",
+        "message_for_legal_terms": "In order to continue you must be of legal drinking age and understand this product may contain references to alcohol.By continuing, you confirm that you understand this and agree to our End User License Agreement",
+        "consent_confirmation_message": "       I confirm I am of legal \n      drinking age \n        \nDD/MM/YYYY is my date of birth",
+        "age_restriction_message": "Sorry, you must be 17 years or over to access this product",
+        "redemption_confirm_message": "Confirm your 4-digit PIN, and that you are of legal drinking age",
+        "date_today": "2025-02-04"
+      }
+    ],
+    "password_rules": {
+      "i_c_e": false,
+      "i_s_e": false,
+      "password_rules": [
+        {
+          "rule": ".*.{8,}.*",
+          "type": "size_range",
+          "info_text": "Be a minimum of 8 characters",
+          "invalid_icon": "https://b2cappassetscdn.theentertainerme.com/v7/foursquareCheck%403x.png",
+          "valid_icon": "https://b2cappassetscdn.theentertainerme.com/v7/foursquareCheckIn%403x.png",
+          "invalid_text_color": "b5b6b8",
+          "valid_text_color": "252525"
+        },
+        {
+          "rule": ".*[a-z].*",
+          "type": "regex",
+          "info_text": "Include at least one lowercase letter",
+          "invalid_icon": "https://b2cappassetscdn.theentertainerme.com/v7/foursquareCheck%403x.png",
+          "valid_icon": "https://b2cappassetscdn.theentertainerme.com/v7/foursquareCheckIn%403x.png",
+          "invalid_text_color": "b5b6b8",
+          "valid_text_color": "252525"
+        },
+        {
+          "rule": ".*[A-Z].*",
+          "type": "regex",
+          "info_text": "Include at least one uppercase letter",
+          "invalid_icon": "https://b2cappassetscdn.theentertainerme.com/v7/foursquareCheck%403x.png",
+          "valid_icon": "https://b2cappassetscdn.theentertainerme.com/v7/foursquareCheckIn%403x.png",
+          "invalid_text_color": "b5b6b8",
+          "valid_text_color": "252525"
+        },
+        {
+          "rule": ".*\\d.*",
+          "type": "regex",
+          "info_text": "Include at least one number",
+          "invalid_icon": "https://b2cappassetscdn.theentertainerme.com/v7/foursquareCheck%403x.png",
+          "valid_icon": "https://b2cappassetscdn.theentertainerme.com/v7/foursquareCheckIn%403x.png",
+          "invalid_text_color": "b5b6b8",
+          "valid_text_color": "252525"
+        }
+      ]
+    },
+    "delivery_rules": [
+      {
+        "id": 75,
+        "location_id": 2,
+        "product_id": 8508,
+        "product_sku": "D20ADADCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers, shawarmas and lots of other delivery food, now included with Abu Dhabi 2020",
+        "delivery_product_title": "View Abu Dhabi 2020",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 78,
+        "location_id": 3,
+        "product_id": 8470,
+        "product_sku": "D20BHBHCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers, shawarmas and lots of other delivery food, now included with Bahrain 2020",
+        "delivery_product_title": "View Bahrain 2020",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 84,
+        "location_id": 8,
+        "product_id": 8468,
+        "product_sku": "D20OMOMCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers, shawarmas and lots of other delivery food, now included with Oman 2020",
+        "delivery_product_title": "View Oman 2020",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 87,
+        "location_id": 9,
+        "product_id": 8416,
+        "product_sku": "D20QTQTCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers, shawarmas and lots of other delivery food, now included with Qatar 2020",
+        "delivery_product_title": "View Qatar 2020",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 81,
+        "location_id": 7,
+        "product_id": 8435,
+        "product_sku": "D20KWKWCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers, shawarmas and lots of other delivery food, now included with Kuwait 2020",
+        "delivery_product_title": "View Kuwait 2020",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 90,
+        "location_id": 10,
+        "product_id": 6937,
+        "product_sku": "D20KSRYCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers, shawarmas and lots of other delivery food, now included with Riyadh 2020",
+        "delivery_product_title": "View Riyadh 2020",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 93,
+        "location_id": 18,
+        "product_id": 7384,
+        "product_sku": "D20KSJDCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers, shawarmas and lots of other delivery food, now included with Jeddah 2020",
+        "delivery_product_title": "View Jeddah 2020",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 96,
+        "location_id": 49,
+        "product_id": 7336,
+        "product_sku": "D20KSEPCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers, shawarmas and lots of other delivery food, now included with Eastern Province 2020",
+        "delivery_product_title": "View Eastern Province 2020",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 100,
+        "location_id": 5,
+        "product_id": 8713,
+        "product_sku": "D20CYCYCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers, shawarmas and lots of other delivery food, now included with Cyprus 2020",
+        "delivery_product_title": "View Cyprus 2020",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 103,
+        "location_id": 4,
+        "product_id": 8712,
+        "product_sku": "D20SACTCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers and lots of other delivery food, now included with Cape Town 2020",
+        "delivery_product_title": "View Cape Town 2020",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 106,
+        "location_id": 11,
+        "product_id": 8438,
+        "product_sku": "D20SPSPCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers and lots of other delivery food, now included with Singapore\u00a02020",
+        "delivery_product_title": "View Singapore 2020",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 109,
+        "location_id": 13,
+        "product_id": 8834,
+        "product_sku": "D20HKHKCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers and lots of other delivery food, now included with Hong Kong\u00a02020",
+        "delivery_product_title": "View Hong Kong 2020",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 112,
+        "location_id": 14,
+        "product_id": 8988,
+        "product_sku": "D20SAJBCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers and lots of other delivery food, now included with Johannesburg & Pretoria\u00a02020",
+        "delivery_product_title": "View Johannesburg & Pretoria 2020",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 115,
+        "location_id": 15,
+        "product_id": 8998,
+        "product_sku": "D20MYMYCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers and lots of other delivery food, now included with Malaysia\u00a02020",
+        "delivery_product_title": "View Malaysia 2020",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 118,
+        "location_id": 20,
+        "product_id": 8636,
+        "product_sku": "D20SADUCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers and lots of other delivery food, now included with Durban\u00a02020",
+        "delivery_product_title": "View Durban 2020",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 121,
+        "location_id": 21,
+        "product_id": 9038,
+        "product_sku": "D20MTFMCP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers and lots of other delivery food, now included with Malta\u00a02020",
+        "delivery_product_title": "View Malta 2020",
+        "date_today": "2025-02-04"
+      },
+      {
+        "id": 124,
+        "location_id": 46,
+        "product_id": 8994,
+        "product_sku": "D20BABACP",
+        "category_id": 4,
+        "category": "Restaurants and Bars",
+        "delivery_image": "https://b2cappassetscdn.theentertainerme.com/delivery-logo.jpg",
+        "delivery_title": "FEED YOUR FANCY",
+        "delivery_desc": "Buy One Get One Free on pizzas, burgers and lots of other delivery food, now included with Bali\u00a02020",
+        "delivery_product_title": "View Bali 2020",
+        "date_today": "2025-02-04"
+      }
+    ],
+    "categories": [
+      {
+        "tile_id": 1,
+        "category_id": 4,
+        "is_free": false,
+        "image": "https://b2cappassetscdn.theentertainerme.com/v7/food_n_drink.png",
+        "banner_image": "",
+        "api_name": "Restaurants and Bars",
+        "name": "Food & Drink",
+        "display_name": "Food &\nDrink",
+        "analytics_category_name": "FD",
+        "featured_merchant_icon_url": "https://b2cappassetscdn.theentertainerme.com/categories/ribbons/cat_ribbon_food.png",
+        "category_color": "4F99D2",
+        "map_pin_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_food@2x.png",
+        "map_pin_invalid_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_invalid_food@2x.png",
+        "map_pin_selected_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_selected_food@2x.png",
+        "map_pin_selected_invalid_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_selected_invalid_food@2x.png",
+        "image_square": "https://b2cappassetscdn.theentertainerme.com/categories/f-n-d.png",
+        "image_url_mega": "https://b2cappassetscdn.theentertainerme.com/mega/categories/food_n_drink_p1.png"
+      },
+      {
+        "tile_id": 2,
+        "category_id": 1,
+        "is_free": false,
+        "banner_image": "",
+        "image": "https://b2cappassetscdn.theentertainerme.com/v7/beauty_n_fitness.png",
+        "api_name": "Body",
+        "name": "Beauty & Fitness",
+        "display_name": "Beauty &\nFitness",
+        "analytics_category_name": "BF",
+        "featured_merchant_icon_url": "https://b2cappassetscdn.theentertainerme.com/categories/ribbons/cat_ribbon_body.png",
+        "category_color": "C7318C",
+        "map_pin_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_body@2x.png",
+        "map_pin_invalid_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_invalid_body@2x.png",
+        "map_pin_selected_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_selected_body@2x.png",
+        "map_pin_selected_invalid_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_selected_invalid_body@2x.png",
+        "image_square": "https://b2cappassetscdn.theentertainerme.com/categories/b-n-f.png",
+        "image_url_mega": "https://b2cappassetscdn.theentertainerme.com/mega/categories/beauty_n_fitness_p1.png"
+      },
+      {
+        "tile_id": 3,
+        "category_id": 3,
+        "is_free": false,
+        "banner_image": "",
+        "image": "https://b2cappassetscdn.theentertainerme.com/v7/attractions_n_leisure.png",
+        "api_name": "Leisure",
+        "name": "Attraction & Leisure",
+        "display_name": "Attractions &\nLeisure",
+        "analytics_category_name": "AL",
+        "featured_merchant_icon_url": "https://b2cappassetscdn.theentertainerme.com/categories/ribbons/cat_ribbon_leisure.png",
+        "category_color": "88C867",
+        "map_pin_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_leisure@2x.png",
+        "map_pin_invalid_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_invalid_leisure@2x.png",
+        "map_pin_selected_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_selected_leisure@2x.png",
+        "map_pin_selected_invalid_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_selected_invalid_leisure@2x.png",
+        "image_square": "https://b2cappassetscdn.theentertainerme.com/categories/a-n-l.png",
+        "image_url_mega": "https://b2cappassetscdn.theentertainerme.com/mega/categories/attractions_n_leisure_p1.png"
+      },
+      {
+        "tile_id": 7,
+        "category_id": 7,
+        "is_free": false,
+        "banner_image": "",
+        "image": "https://b2cappassetscdn.theentertainerme.com/v7/fashion_n_retail.png",
+        "api_name": "Retail",
+        "name": "Fashion & Retail",
+        "display_name": "Fashion & Retail",
+        "analytics_category_name": "FR",
+        "featured_merchant_icon_url": "https://b2cappassetscdn.theentertainerme.com/categories/ribbons/cat_ribbon_retail.png",
+        "category_color": "9866AC",
+        "map_pin_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_retail@2x.png",
+        "map_pin_invalid_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_invalid_retail@2x.png",
+        "map_pin_selected_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_selected_retail@2x.png",
+        "map_pin_selected_invalid_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_selected_invalid_retail@2x.png",
+        "image_square": "https://b2cappassetscdn.theentertainerme.com/categories/f-n-r.png",
+        "image_url_mega": "https://b2cappassetscdn.theentertainerme.com/mega/categories/fashion_n_retail_p1.png"
+      },
+      {
+        "tile_id": 4,
+        "category_id": 5,
+        "is_free": false,
+        "banner_image": "",
+        "image": "https://b2cappassetscdn.theentertainerme.com/v7/everyday_services.png",
+        "api_name": "Services",
+        "name": "Everyday Services",
+        "display_name": "Everyday\nServices",
+        "analytics_category_name": "ES",
+        "featured_merchant_icon_url": "https://b2cappassetscdn.theentertainerme.com/categories/ribbons/cat_ribbon_services.png",
+        "category_color": "20909A",
+        "map_pin_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_services@2x.png",
+        "map_pin_invalid_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_invalid_services@2x.png",
+        "map_pin_selected_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_selected_services@2x.png",
+        "map_pin_selected_invalid_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_selected_invalid_services@2x.png",
+        "image_square": "https://b2cappassetscdn.theentertainerme.com/categories/everydayservices.png",
+        "image_url_mega": "https://b2cappassetscdn.theentertainerme.com/mega/categories/everyday_services_p1.png"
+      },
+      {
+        "tile_id": 8,
+        "category_id": 6,
+        "is_free": false,
+        "banner_image": "",
+        "image": "https://b2cappassetscdn.theentertainerme.com/categories/travel.png",
+        "api_name": "Travel",
+        "name": "Travel",
+        "display_name": "Travel",
+        "analytics_category_name": "HW",
+        "featured_merchant_icon_url": "https://b2cappassetscdn.theentertainerme.com/categories/ribbons/cat_ribbon_travel.png",
+        "category_color": "B3995D",
+        "map_pin_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_travel@2x.png",
+        "map_pin_invalid_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_invalid_travel@2x.png",
+        "map_pin_selected_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_selected_travel@2x.png",
+        "map_pin_selected_invalid_url": "https://b2cappassetscdn.theentertainerme.com/categories/pins/cat_pin_selected_invalid_travel@2x.png",
+        "image_square": "https://b2cappassetscdn.theentertainerme.com/mega/categories/travel.png",
+        "image_url_mega": "https://b2cappassetscdn.theentertainerme.com/mega/categories/travel_p1.png"
+      }
+    ],
+    "date_of_birth_tile": {
+      "image_url_notification": "https://b2cappassetscdn.theentertainerme.com/v7/dob/notifications_image.png",
+      "image_url_profile": "https://b2cappassetscdn.theentertainerme.com/v7/dob/profile_image.png",
+      "message": "Share your date of birth and unlock exclusive offer on your birthday month!",
+      "button_text": "Share my Birthdate",
+      "deeplink": "entertainer://dob",
+      "icons_message": "\ud83d\ude0d\ud83c\udf82"
+    },
+    "dob_screen_info": {
+      "image_url": "https://b2cappassetscdn.theentertainerme.com/v7/dob/screen_info_image.png",
+      "title": "What happens when you share us your date of birth?",
+      "message": "Get access to exclusive offers for you to use during the month of your birthday from these merchants, for <b>FREE!</b>",
+      "api_params": {
+        "all_birthday_offers": true
+      }
+    },
+    "google_rating_image_url": "https://b2cappassetscdn.theentertainerme.com/v7/google_rating_icon.png",
+    "is_dc_micro_service_enabled": true,
+    "dc_micro_service_url": "https://apiutmnidcoutsrvrpy.theentertainerme.com/api_ets/v5/",
+    "feedback_popup_allowed_categories": [
+      "Restaurants and Bars",
+      "Body",
+      "Leisure",
+      "Retail",
+      "Services",
+      "Travel"
+    ],
+    "feedback_popup_allowed_locations": [
+      1,
+      2,
+      3,
+      7,
+      9,
+      8,
+      49,
+      10,
+      18,
+      11,
+      6
+    ],
+    "coordinate_version": 1,
+    "is_eat_app_enabled": 0,
+    "is_storyly_enabled": 0,
+    "inactive_outlets_subscribed": [
+      
+    ],
+    "is_hww": true,
+    "show_delivery_cuisines": true,
+    "member_type": 2,
+    "is_user_in_family": true,
+    "app_update_info": {
+      "force_update": false,
+      "notify": "always",
+      "title": "Update available",
+      "message": "A new version of the app is available. Would you like to update it now?",
+      "btn_not_now": "Not now",
+      "btn_update": "Update now"
+    },
+    "user_preferences_setting_info": {
+      "user_preferences_url": "https://entcartut.theentertainerme.com/user-preferences/index?__dts=",
+      "title": "Share a bit about yourself to make the most of your ENTERTAINER",
+      "sub_title": "Should take no longer than <b>30 seconds</b>",
+      "smile_text": "",
+      "privacy_text": "This information will not be shared \u2013 see our",
+      "privacy_policy_text": "Privacy Policy",
+      "done_button": "OK, let\u2019s start",
+      "remind_later_text": "Remind me later",
+      "remind_later_confirmation": {
+        "title": "Confirmation",
+        "sub_title": "Are you sure you want to skip setting your preferences?",
+        "done_button": "Take me back",
+        "remind_later_text": "Skip for now"
+      },
+      "progress_colors": [
+        {
+          "range": {
+            "min": 0,
+            "max": 20
+          },
+          "color": "CC2727",
+          "bg_color": "FCE0E4"
+        },
+        {
+          "range": {
+            "min": 21,
+            "max": 79
+          },
+          "color": "F58423",
+          "bg_color": "FCF1DD"
+        },
+        {
+          "range": {
+            "min": 80,
+            "max": 100
+          },
+          "color": "4EA11E",
+          "bg_color": "E7F4E0"
+        }
+      ],
+      "user_preferences_smile_info": {
+        "title": "What are Smiles?",
+        "sub_title": "These are our Rewards points, which you can earn by redeeming offers on our app or referring friends & family.",
+        "how_to_use_smile_title": "How can I use Smiles?",
+        "how_to_use_smile_sub_title": "Smiles can be used to buyback a used offer.",
+        "done_button": "Got it"
+      }
+    },
+    "redemption_tutorials": {
+      "title": "Here\u2019s how you redeem your offers",
+      "description": "Follow these 3 simple steps to redeem and enjoy your offers.",
+      "bottom_section": [
+        {
+          "title_bottom": "1.Pick your offer",
+          "description_bottom": "Begin by choosing the offer you'd like to redeem. All the offers in the active state and available for immediate use."
+        },
+        {
+          "title_bottom": "2.Ask outlet to enter their pin",
+          "description_bottom": "Once you've made your selection, simply present this screen to the cashier or waiter, who will enter their PIN to confirm your redemption."
+        },
+        {
+          "title_bottom": "3.Enjoy your redemption",
+          "description_bottom": "With the PIN confirmed, your redemption is successfully processed and you will be provided with a discounted bill. Enjoy your offer!"
+        }
+      ]
+    },
+    "outlet_reviews_prefix_text": "Reviews:",
+    "merchant_voucher_description": {
+      "0": "We invite you to enjoy a complimentary\nOFFER_NAME when a OFFER_NAME\n of equal or greater value is purchased.",
+      "1": "We invite you to enjoy a complimentary\nOFFER_NAME when a OFFER_NAME\n of equal or greater value is purchased.",
+      "2": "We invite you to enjoy OFFER_NAME.",
+      "3": "We invite you to enjoy a complimentary\nOFFER_NAME.",
+      "4": "We invite you to enjoy Package Offer:\nOFFER_NAME.",
+      "6": "We invite you to Spend OFFER_NAME.",
+      "travel_4": "We invite you to enjoy:\nPACKAGE_PRICE\nOFFER_NAME.",
+      "plural_0": "We invite you to enjoy OFFER_NAME when OFFER_NAME of equal or greater value are purchased.",
+      "plural_1": "We invite you to enjoy OFFER_NAME when OFFER_NAME of equal or greater value are purchased.",
+      "plural_2": "We invite you to enjoy OFFER_NAME when OFFER_NAME of equal or greater value are purchased.",
+      "plural_3": "We invite you to enjoy OFFER_NAME when OFFER_NAME of equal or greater value are purchased.",
+      "plural_4": "We invite you to enjoy Package Offer:\nOFFER_NAME.",
+      "plural_6": "We invite you to enjoy OFFER_NAME when OFFER_NAME of equal or greater value are purchased.",
+      "plural_travel_4": "We invite you to enjoy:\nPACKAGE_PRICE\nOFFER_NAME.",
+      "travel_new_1": "(When a night of equal or greater value is purchased)",
+      "travel_new_plural_1": "(When a night of equal or greater value is purchased)"
+    },
+    "complete_profile_snackbar": {
+      "title": "Complete your profile",
+      "sub_title": "Get personalized and exclusive offers",
+      "icon_url": "https://b2cappassetscdn.theentertainerme.com/mega/footer_ribbon_images/profile.png",
+      "action_button_text": "Update now",
+      "action_button_deeplink": "entertainer://MyInformation",
+      "background_color": "#EAF3FF"
+    },
+    "gamification_terms_and_conditions": {
+      "title": "Terms & conditions",
+      "terms": [
+        "The game is playable until April 30th, 2023.",
+        "The Smiles earned with the game will expire when the campaign ends (Lite users only) or when your membership expires.",
+        "The Smiles can be swapped only for the rewards in-app and the Smiles spent on rewards are non-refundable.",
+        "All the redemptions of a family are counted for the primary member only and the reward for the same is credited to the primary member.",
+        "The ENTERTAINER reserves the right to modify these terms at any time, modify or discontinue, temporarily or permanently, the game or these terms, with or without prior notice and the decision of the ENTERTAINER shall be final and binding in this regard.",
+        "The Rewards Terms do not alter in any way the terms or conditions of any other program or arrangement the user may have with the ENTERTAINER. Terms of the game shall have no effect on the Terms of Service governing the relationship between the users & the ENTERTAINER.",
+        "For any help or queries, you may reach out to us through the help section."
+      ]
+    },
+    "freemium_reward_info_object": {
+      "title": "3 Receivable pings",
+      "smiles_message": "500 Smiles",
+      "required_smiles": 500,
+      "icon_url": "",
+      "button_title": "Claim",
+      "button_title_locl": "Locked",
+      "sub_title": "Share vouchers with friends & family"
+    },
+    "offer_common_terms": [
+      "Offers are not valid on public holidays unless specified.",
+      "Offers cannot be redeemed together with other discount offers/promotions/special menu items etc.",
+      "To see if more than one voucher can be redeemed at one time, refer to the Rules of Use.",
+      "Offer validity is stipulated in each Offer"
+    ],
+    "pings_terms_and_conditions": null,
+    "buy_back_terms_and_conditions": {
+      "title": "Offer Buy Back",
+      "message": "You have the option to buy back your used offers using Smiles. Select the offer you want to buy back by tapping any of your used vouchers. You can buy back a voucher only once using 1000 smiles."
+    },
+    "delivery_only_outlet_message": "<b>This outlet is delivery only.</b> Please try another outlet using the 'change outlet' option above to view dine-in offers.",
+    "delivery_only_merchant_message": "<b>[MERCHANT_NAME] is delivery only outlet.</b> Dine-in offers are not available at this outlet.",
+    "service_fee_update_message": "We\u2019ve updated our fees, so you know what you\u2019re paying for when ordering on the ENTERTAINER",
+    "service_fee_updated_button_text": "Learn more",
+    "service_delivery_fee_popup": {
+      "title": "We\u2019re changing how our fees work",
+      "subtitle": "We\u2019ve updated our fees, so you know what are paying for when ordering on the ENTERTAINER",
+      "sections": [
+        {
+          "section_identifier": "delivery_fee",
+          "title": "Delivery fee",
+          "subtitle": "Our delivery fee is based on distance. The closer you are to the outlet, the lesser you pay."
+        },
+        {
+          "section_identifier": "service_fee",
+          "title": "Service fee",
+          "subtitle": "[PERCENTAGE]% fee charged on your pre-discount cart value to help us improve the services provided to you. A minimum of [MIN_CAP], capped at [MAX_CAP]"
+        }
+      ]
+    },
+    "cannot_remove_family_member_error_msg": "Once the invitation is accepted, you won\u2019t be able to remove member or close family account. For more information, please read our [End User license Agreement] for family members.",
+    "cannot_remove_family_member_error_title": "Updates in family accounts policy*",
+    "cannot_leave_family_error_msg": "Once the invitation is accepted, you won\u2019t be able to remove member or close family account. For more information, please read our [End User license Agreement] for family members.",
+    "cannot_leave_family_error_title": "Updates in family accounts policy*",
+    "promo_code_redemption_reminder_msg": "This code is applicable on a website created specially for the ENTERTAINER members. Please use the correct link.",
+    "family_configs": {
+      "keys_to_replace": {
+        "Rules of Use": "https://www.theentertainerme.com/rules-of-use?language=en",
+        "FAQs": "https://www.theentertainerme.com/ent-faqs?header=no&language=en"
+      },
+      "primary_family_list_restriction_title": "",
+      "primary_family_list_restriction_message": "For more information, please refer to [Rules of Use] and [FAQs].",
+      "add_member_restriction_title": "You can add up to [COUNT] Family members*",
+      "add_member_restriction_message": "Once your invitation is accepted, you can only disable or re-enable a member's access to your Family. For more information, please refer to [Rules of Use] and [FAQs].",
+      "accept_invite_restriction_title": "You can only accept ONE Family invitation*",
+      "accept_invite_restriction_message": "For more information, please refer to [Rules of Use] and [FAQs].",
+      "secondary_family_list_restriction_title": "",
+      "secondary_family_list_restriction_message": "For more information, please refer to [Rules of Use] and [FAQs]."
+    },
+    "auto_renew_vip_key_info": null,
+    "gift_a_friend": {
+      "title": "Gift a friend",
+      "gift_icon": "https://b2cappassetscdn.theentertainerme.com/v9/gift_r.png",
+      "gift_url": "https://www.theentertainerme.com/gift"
+    },
+    "package_offer_redemption_messages": null,
+    "user_membership_status_data": {
+      "lite_status": "Non-member",
+      "lite_button_text": "Buy now",
+      "expired_status": "Expired",
+      "expired_button_text": "Renew now",
+      "expiring_status": "Expiring soon",
+      "expiring_button_text": "Renew now",
+      "free_redemption_trial_text": "Trial",
+      "expired_free_redemption_trial_text": "",
+      "expired_free_redemption_trial_button_text": "Buy now"
+    },
+    "trial_activation_data": {
+      "title": "What is the free trial?",
+      "description": "Unlock a taste of what the ENTERTAINER has to offer with 1 month to try 2 free offers.",
+      "instruction_msg": "Only applicable to first time users",
+      "button_text": "Start your free trial",
+      "trial_tutorial_data": {
+        "title": "Ready? Here we go!",
+        "description": "You have activated your free trial",
+        "bottom_title": "Here\u2019s how it works:",
+        "bottom_description": "You have 7 days to redeem two buy one get one free offers. Go ahead and explore our outlets - offers available for the free trial will appear in colour. You are free to redeem two of these offers during your 7 day trial.",
+        "button_text": "Let\u2019s go",
+        "tutorials": [
+          {
+            "title": "Browse our categories",
+            "type": "category_tutorial"
+          },
+          {
+            "title": "Offers in colour are available for you to redeem.",
+            "offer_subtitle": "Validity is until 30th Dec",
+            "offer_title": "We invite you to enjoy a free main course when you purchase a main course of equal or greater value",
+            "background_color": "3D91C9",
+            "smiley_icon": "https://b2cappassetscdn.theentertainerme.com/v9/smiles_icons/Casual+dining+%26+cafes.png",
+            "type": "offer_tutorial"
+          },
+          {
+            "title": "You can redeem two offers over 7 days. Enjoy your savings!",
+            "offer_subtitle": "Main Course",
+            "savings": "AED 180",
+            "type": "completion_tutorial"
+          }
+        ]
+      }
+    },
+    "buy_back_data": {
+      "title": "Want to buy back this offer?",
+      "smile_balance": "Your smile balance is",
+      "buy_back_button_title": "Buy Back for %@ Smiles",
+      "cancel_button": "Cancel",
+      "success_dialog_title": "Available Smile balance",
+      "success_dialog_subtitle": "Congratulations! Your voucher is available again on the listing.",
+      "success_dialog_button_title": "Got it",
+      "success_dialog_message": "You\u2019ve successfully bought back the:",
+      "success_dialog_button": "Ok",
+      "error_msg": "You\u2019ve already bought back your offer"
+    },
+    "locked_offer_info": {
+      "circle_lock": "https://b2cappassetscdn.theentertainerme.com/v9/circle_lock.png",
+      "small_lock": "https://b2cappassetscdn.theentertainerme.com/v9/small_lock.png",
+      "locked_offer_title": "Buy Entertainer 2025",
+      "deep_link": "entertainer://productlistingnew"
+    },
+    "customer_service_support": {
+      "title": "Need Help?",
+      "description": "Reach out to Customer care team.",
+      "faqs_button_text": "Frequently asked questions",
+      "faqs_url": "https://www.theentertainerme.com/mobile-ent-faqs?v=full&header=no",
+      "how_to_redeem_url": "https://www.theentertainerme.com/mobile-ent-faqs?v=full&header=no#how_do_i_redeem_an_offer",
+      "how_to_redeem_button_text": "How to redeem offers",
+      "service_options": [
+        {
+          "type": "whatsapp",
+          "service_title": "WhatsApp",
+          "service_description": "+971505579619",
+          "service_time": "9am-12:30am"
+        },
+        {
+          "type": "callus",
+          "service_title": "Call us",
+          "service_description": "+97144279575",
+          "service_time": "9am-5:30pm"
+        },
+        {
+          "type": "email",
+          "service_title": "Email",
+          "service_time": "1-2 days response time",
+          "service_description": "customerservice@theentertainerme.com"
+        }
+      ]
+    },
+    "customer_service_support_v2": {
+      "title": "Need Help?",
+      "description": "Reach out to Customer care team.",
+      "faqs_button_text": "Frequently asked questions",
+      "faqs_url": "https://www.theentertainerme.com/mobile-ent-faqs?v=full",
+      "how_to_redeem_url": "https://www.theentertainerme.com/mobile-ent-faqs?v=full#how_do_i_redeem_an_offer",
+      "how_to_redeem_button_text": "How to redeem offers",
+      "service_options": [
+        {
+          "service_description": "+97144279575",
+          "service_time": "9am-5:30pm",
+          "service_title": "Call us",
+          "type": "callus"
+        },
+        {
+          "service_description": "",
+          "service_time": "24/7",
+          "service_title": "Live Chat",
+          "service_chat_url": "https://entcartut.theentertainerme.com/livechat",
+          "type": "chat"
+        },
+        {
+          "service_description": "customerservice@theentertainerme.com",
+          "service_time": "1-2 days response time",
+          "service_title": "Email Us",
+          "type": "email"
+        }
+      ]
+    },
+    "location_based_home_header_information": {
+      "1": {
+        "header_sections": [
+          {
+            "title": "Hi, {name}",
+            "subtitle_ranges": {
+              "05:00-11:59": "Good Morning",
+              "12:00-16:59": "Good Afternoon",
+              "17:00-19:59": "Good Evening",
+              "20:00-04:59": "Good Night"
+            },
+            "identifier": "user_status"
+          },
+          {
+            "title": "You've saved",
+            "subtitle": "{user_savings}",
+            "identifier": "user_saving"
+          }
+        ]
+      },
+      "2": {
+        "header_sections": [
+          {
+            "title": "Hi, {name}",
+            "subtitle_ranges": {
+              "05:00-11:59": "Good Morning",
+              "12:00-16:59": "Good Afternoon",
+              "17:00-19:59": "Good Evening",
+              "20:00-04:59": "Good Night"
+            },
+            "identifier": "user_status"
+          },
+          {
+            "title": "You've saved",
+            "subtitle": "{user_savings}",
+            "identifier": "user_saving"
+          }
+        ]
+      },
+      "3": {
+        "header_sections": [
+          {
+            "title": "Hi, {name}",
+            "subtitle_ranges": {
+              "05:00-11:59": "Good Morning",
+              "12:00-16:59": "Good Afternoon",
+              "17:00-19:59": "Good Evening",
+              "20:00-04:59": "Good Night"
+            },
+            "identifier": "user_status"
+          },
+          {
+            "title": "You've saved",
+            "subtitle": "{user_savings}",
+            "identifier": "user_saving"
+          }
+        ]
+      },
+      "7": {
+        "header_sections": [
+          {
+            "title": "Hi, {name}",
+            "subtitle_ranges": {
+              "05:00-11:59": "Good Morning",
+              "12:00-16:59": "Good Afternoon",
+              "17:00-19:59": "Good Evening",
+              "20:00-04:59": "Good Night"
+            },
+            "identifier": "user_status"
+          },
+          {
+            "title": "You've saved",
+            "subtitle": "{user_savings}",
+            "identifier": "user_saving"
+          }
+        ]
+      },
+      "8": {
+        "header_sections": [
+          {
+            "title": "Hi, {name}",
+            "subtitle_ranges": {
+              "05:00-11:59": "Good Morning",
+              "12:00-16:59": "Good Afternoon",
+              "17:00-19:59": "Good Evening",
+              "20:00-04:59": "Good Night"
+            },
+            "identifier": "user_status"
+          },
+          {
+            "title": "You've saved",
+            "subtitle": "{user_savings}",
+            "identifier": "user_saving"
+          }
+        ]
+      },
+      "9": {
+        "header_sections": [
+          {
+            "title": "Hi, {name}",
+            "subtitle_ranges": {
+              "05:00-11:59": "Good Morning",
+              "12:00-16:59": "Good Afternoon",
+              "17:00-19:59": "Good Evening",
+              "20:00-04:59": "Good Night"
+            },
+            "identifier": "user_status"
+          },
+          {
+            "title": "You've saved",
+            "subtitle": "{user_savings}",
+            "identifier": "user_saving"
+          }
+        ]
+      },
+      "10": {
+        "header_sections": [
+          {
+            "title": "Hi, {name}",
+            "subtitle_ranges": {
+              "05:00-11:59": "Good Morning",
+              "12:00-16:59": "Good Afternoon",
+              "17:00-19:59": "Good Evening",
+              "20:00-04:59": "Good Night"
+            },
+            "identifier": "user_status"
+          },
+          {
+            "title": "You've saved",
+            "subtitle": "{user_savings}",
+            "identifier": "user_saving"
+          }
+        ]
+      },
+      "11": {
+        "header_sections": [
+          {
+            "title": "Hi, {name}",
+            "subtitle_ranges": {
+              "05:00-11:59": "Good Morning",
+              "12:00-16:59": "Good Afternoon",
+              "17:00-19:59": "Good Evening",
+              "20:00-04:59": "Good Night"
+            },
+            "identifier": "user_status"
+          },
+          {
+            "title": "You've saved",
+            "subtitle": "{user_savings}",
+            "identifier": "user_saving"
+          }
+        ]
+      },
+      "18": {
+        "header_sections": [
+          {
+            "title": "Hi, {name}",
+            "subtitle_ranges": {
+              "05:00-11:59": "Good Morning",
+              "12:00-16:59": "Good Afternoon",
+              "17:00-19:59": "Good Evening",
+              "20:00-04:59": "Good Night"
+            },
+            "identifier": "user_status"
+          },
+          {
+            "title": "You've saved",
+            "subtitle": "{user_savings}",
+            "identifier": "user_saving"
+          }
+        ]
+      },
+      "49": {
+        "header_sections": [
+          {
+            "title": "Hi, {name}",
+            "subtitle_ranges": {
+              "05:00-11:59": "Good Morning",
+              "12:00-16:59": "Good Afternoon",
+              "17:00-19:59": "Good Evening",
+              "20:00-04:59": "Good Night"
+            },
+            "identifier": "user_status"
+          },
+          {
+            "title": "You've saved",
+            "subtitle": "{user_savings}",
+            "identifier": "user_saving"
+          }
+        ]
+      }
+    },
+    "default_home_header_information": {
+      "delay_time": 2000,
+      "header_sections": [
+        {
+          "title": "Hi, {name}",
+          "identifier": "user_status",
+          "subtitle_ranges": {
+            "05:00-11:59": "Good Morning",
+            "12:00-16:59": "Good Afternoon",
+            "17:00-19:59": "Good Evening",
+            "20:00-04:59": "Good Night"
+          }
+        },
+        {
+          "title": "You've saved",
+          "identifier": "user_saving",
+          "subtitle": "{user_savings}"
+        }
+      ]
+    },
+    "auto_renewal_data": {
+      "header_icon_url": "https://b2cappassetscdn.theentertainerme.com/v9/Card+Renew%403x.png",
+      "confirmation_alert_title": "Are you sure you want to cancel auto-renewal?",
+      "confirmation_alert_cancel_button_text": "Cancel",
+      "confirmation_alert_confirm_button_text": "Confirm",
+      "confirmation_alert_sub_title": "You\u2019ll miss out on 10% off your next membership year!",
+      "cancel_auto_renewal_product": {
+        "sub_title": "By deactivating auto-renewal, you will not be automatically charged for your next membership year. Your current membership will remain active until December 31st 2024.",
+        "title": "Cancel Auto-Renewal",
+        "action_button_text": "Cancel",
+        "product_button_text": "Cancel Auto-renewal",
+        "description_text": "*Eligible for 10% off upon renewal"
+      },
+      "auto_renewal_product": {
+        "terms_agreement_text": "I agree to the <b>Terms & Conditions</b>",
+        "sub_title": "Keep the savings flowing! Your ENTERTAINER membership will automatically renew on December 31st 2024, ensuring uninterrupted access to unbeatable Buy One Get One Free offers.",
+        "note_title": "Please note:",
+        "title": "Activate Auto-Renewal",
+        "note_description": "Auto-renewal enables an exclusive <b>10% Discount</b> off the website price at next year\u2019s renewal.",
+        "action_button_text": "Activate",
+        "product_button_text": "Auto-Renewal",
+        "description_text": "(Save 10%)"
+      }
+    },
+    "gamification_levels_info": [
+      {
+        "level_id": 130,
+        "level_title": "Rookie",
+        "level_freemium_smiles": "0",
+        "level_premium_smiles": "0",
+        "level_redemptions_required": 1
+      },
+      {
+        "level_id": 131,
+        "level_title": "Saver",
+        "level_freemium_smiles": "500",
+        "level_premium_smiles": "800",
+        "level_redemptions_required": 6
+      },
+      {
+        "level_id": 133,
+        "level_title": "Flexer",
+        "level_freemium_smiles": "1000",
+        "level_premium_smiles": "1200",
+        "level_redemptions_required": 15
+      },
+      {
+        "level_id": 134,
+        "level_title": "Superstar",
+        "level_freemium_smiles": "1000",
+        "level_premium_smiles": "1500",
+        "level_redemptions_required": 25
+      }
+    ],
+    "location_based_available_locale": {
+      "1": [
+        "en",
+        "ar"
+      ],
+      "2": [
+        "en",
+        "ar"
+      ],
+      "3": [
+        "en",
+        "ar"
+      ],
+      "6": [
+        "en",
+        "ar"
+      ],
+      "7": [
+        "en",
+        "ar"
+      ],
+      "8": [
+        "en",
+        "ar"
+      ],
+      "9": [
+        "en",
+        "ar"
+      ],
+      "10": [
+        "en",
+        "ar"
+      ],
+      "11": [
+        "en"
+      ],
+      "18": [
+        "en",
+        "ar"
+      ],
+      "49": [
+        "en",
+        "ar"
+      ]
+    },
+    "average_savings_value": {
+      "AED": 3425,
+      "BHD": 480,
+      "USD": 1250,
+      "EGP": 3400,
+      "EUR": 470,
+      "GBP": 405,
+      "HKD": 2120,
+      "IDR": 7400000,
+      "INR": 39000,
+      "JOD": 350,
+      "KWD": 182,
+      "LBP": 754000,
+      "MYR": 2470,
+      "OMR": 188,
+      "QAR": 2320,
+      "SAR": 1800,
+      "SGD": 679,
+      "ZAR": 1200
+    },
+    "faqs_location_urls": {
+      "1": "https://entcartut.theentertainerme.com/ent-faqs?header=no&language=%s",
+      "2": "https://entcartut.theentertainerme.com/ent-faqs?header=no&language=%s",
+      "3": "https://entcartut.theentertainerme.com/ent-faqs?header=no&language=%s",
+      "4": "https://entcartut.theentertainerme.com/ent-faqs?header=no&language=%s",
+      "6": "https://entcartut.theentertainerme.com/ent-faqs?header=no&language=%s",
+      "7": "https://entcartut.theentertainerme.com/ent-faqs?header=no&language=%s",
+      "8": "https://entcartut.theentertainerme.com/ent-faqs?header=no&language=%s",
+      "9": "https://entcartut.theentertainerme.com/ent-faqs?header=no&language=%s",
+      "10": "https://entcartut.theentertainerme.com/ent-faqs?header=no&language=%s",
+      "11": "https://entcartut.theentertainerme.com/ent-faqs?header=no&language=%s",
+      "14": "https://entcartut.theentertainerme.com/ent-faqs?header=no&language=%s",
+      "17": "https://entcartut.theentertainerme.com/ent-faqs?header=no&language=%s",
+      "18": "https://entcartut.theentertainerme.com/ent-faqs?header=no&language=%s",
+      "20": "https://entcartut.theentertainerme.com/ent-faqs?header=no&language=%s",
+      "23": "https://entcartut.theentertainerme.com/ent-faqs?header=no&language=%s",
+      "49": "https://entcartut.theentertainerme.com/ent-faqs?header=no&language=%s"
+    },
+    "travel_blocked_location_ids": [
+      6
+    ],
+    "fnb_blocked_locations": [
+      14,
+      4,
+      20
+    ],
+    "default_currency_after_registration": [
+      {
+        "location_id": 6,
+        "currency": "EGP"
+      }
+    ],
+    "category_sub_category_deeplink_params": [
+      "pre_sub_category_cuisine_attribute_ids",
+      "sub_category_cuisine_attribute_ids",
+      "pre_sub_category_cuisine_or_attribute_ids",
+      "sub_category_cuisine_or_attribute_ids",
+      "category",
+      "cuisines",
+      "merchant_attributes",
+      "offer_attributes"
+    ],
+    "filter_list_blacklist": {
+      "offer_attributes": [
+        
+      ],
+      "amenities": [
+        
+      ]
+    },
+    "ssl_pinning": {
+      "8": 0,
+      "9": 0
+    },
+    "storly_tokens": {
+      "plateform_ios": {
+        "1": "Qbu8AHLVnnWsGZ7yF5lg8SrMHpfYFkubuT7hQ8iii74R+tyvFOMR3wGMMxnJ4FtmfX5OgeS82H8WcmbZeAAMfVF70+U/0JCWzA4Dn+Q+x7jggBCHPxGOzX5LMy31lCqxOxkKazdMrwt/vDIP+i170tlGjVLJ0NOkspvfpxydvZ5DxTCHNlNFfyDIU4Ns1//p",
+        "2": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0PY6BgXsnGWxKVEXQsLulZBRo0sRMep5FJk2N2OpkpWPQGoNlyuGlAq4uhXNsiWNmtd5Cs408cznyUe4EICLB5UfIdGygDq1BKjbVj8yRBD1",
+        "3": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0PY6BgXsnGWxKVEXQsLulZCwP5084bgu/HCc7bE/m0Y5jHyqUcf3pGaX3wcCRM7Z1BKI3YT3Nd2IdKK1pD44hRpUSuviIbVrM4+3+aAWKiRG",
+        "7": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0PY6BgXsnGWxKVEXQsLulZDjhzsSl4doGLrZrgLW0EN6m/MFMmm0f6H9wlY+b8CWDjwRxlpfJ1iSJUuaAc6HtaDVzLUpD669sO/yongW1dcS",
+        "8": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0PY6BgXsnGWxKVEXQsLulZA6ntm390R6cZ3KugRUHiAP9ibX37OTgmEbKw6ZT588ppPOpbzZlBInwx/ZZvCfoeWlNDT8lBRBnJSaYhaTupI+",
+        "9": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0PY6BgXsnGWxKVEXQsLulZDlqSecZ9ejpraSbc6YqRfTVZRID1w2++gPHq7uP5F+iwugF/mWbH7tBe5qtC5EZy3gLgZEp6EyMYrRopDEFbqI",
+        "10": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0PY6BgXsnGWxKVEXQsLulZBvPPo5504um+qc+hLn+5IRaw8WgqfeGF6ZHrRMFuvG2YpP6FrZaSFQu/4sp6bpThoA0z72Hs8nEZM83+e2G1vy",
+        "11": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0PY6BgXsnGWxKVEXQsLulZBgVGXQ6/TBy90juH2x1WojZfnFEV0Z8WKC4xzAUs4C4dRCZOjiw4VkK9ys9VElSA5nNBU1UiCLaqAop+GUvZWh",
+        "18": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0PY6BgXsnGWxKVEXQsLulZBvPPo5504um+qc+hLn+5IRaw8WgqfeGF6ZHrRMFuvG2YpP6FrZaSFQu/4sp6bpThoA0z72Hs8nEZM83+e2G1vy",
+        "49": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0PY6BgXsnGWxKVEXQsLulZBvPPo5504um+qc+hLn+5IRaw8WgqfeGF6ZHrRMFuvG2YpP6FrZaSFQu/4sp6bpThoA0z72Hs8nEZM83+e2G1vy"
+      },
+      "plateform_android": {
+        "1": "Qbu8AHLVnnWsGZ7yF5lg8SrMHpfYFkubuT7hQ8iii74R+tyvFOMR3wGMMxnJ4FtmfX5OgeS82H8WcmbZeAAMfdkxU2hhswLhg4frXoplPKULidtlz3hAd0OOp8Qv3zWppGbSutufQc6i41uBMXDeY41z8HFAC8qKg5XDAPtdJMdrYDbsJpKt7doZ0W0vy2jx",
+        "2": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0OlNGLqqn1pbOSVLPHunRBSszmdqcNwvWLMpMfvEH1kywM2a/Y/0xfz0z8IYJYzGATrO+lA4zSfsi2BrydxcMUkMn1m/1jWqNzG0jiDvxXox",
+        "3": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0OlNGLqqn1pbOSVLPHunRBQw74fzLmBd+dFVNIc6densFDqw7KGCDqDQmaX6zNNJkxNeNvirR2vgbxtdv3FSX7BiDmXqIzO8fRahxpeZbZHm",
+        "7": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0OlNGLqqn1pbOSVLPHunRBSxo/ntlSlPFcBK3dCazhd7iVg3/9XjeHlJenD5nMO8V1Kf2B7I4HJckAJm3WYYQTqYLgMatpztOViPzhXFDnGN",
+        "8": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0OlNGLqqn1pbOSVLPHunRBSuReh/GNf5X1li9f9Bwzok9gT9Ho8P55CO9ThzH+Mms29SJ7nO4Vh/jHGYfux85sntlfjz7Ds3lADgVwBtVqzh",
+        "9": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0OlNGLqqn1pbOSVLPHunRBTLG2Z9WwVi2/kGeN4QKWtpkCqLYcpb/Ww18oDFKnYam4AaTi05cL2voYQ5OXvN8KUwy7WVXTuIZIqheaN9zxfn",
+        "10": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0OlNGLqqn1pbOSVLPHunRBTUCQ+Fx8ntKfBPMrtf+0ViOysH6ips92Mm+Db4zfAvD8rSqAHynvX10hT7IoP/gEYqz7GIMPYQiFi8Uq2rTHLh",
+        "11": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0OlNGLqqn1pbOSVLPHunRBS3s5OCzd5l2pmWEmPBk5dMkR3xYgYoYV3pxQydPI21ilQys/YcYD1S0T+v4DYLhjLRzgNRf+IhfSMAzCga+QA8",
+        "18": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0OlNGLqqn1pbOSVLPHunRBTUCQ+Fx8ntKfBPMrtf+0ViOysH6ips92Mm+Db4zfAvD8rSqAHynvX10hT7IoP/gEYqz7GIMPYQiFi8Uq2rTHLh",
+        "49": "p6pe0hwc+QOvl24AbRlRXEOGmTdCJJLj1pZYAWMp6MGl4vxWIb9HEW5faedYWoYZyws4N9JS98K0ygUzXeDe0OlNGLqqn1pbOSVLPHunRBTUCQ+Fx8ntKfBPMrtf+0ViOysH6ips92Mm+Db4zfAvD8rSqAHynvX10hT7IoP/gEYqz7GIMPYQiFi8Uq2rTHLh"
+      }
+    },
+    "is_outlet_detail_micro_service_enabled": true,
+    "is_freemium_gamification_on": false,
+    "config_api_configurations_list": "{\"json_api_config_keys\":[\"gamification_levels_info\",\"location_based_available_locale\",\"average_savings_value\",\"faqs_location_urls\",\"travel_blocked_location_ids\",\"fnb_blocked_locations\",\"feedback_popup_allowed_locations\",\"feedback_popup_allowed_categories\",\"default_currency_after_registration\",\"category_sub_category_deeplink_params\",\"filter_list_blacklist\",\"ssl_pinning\",\"storly_tokens\"],\"language_wise_json_api_config_keys\":[\"app_update_info\",\"user_preferences_setting_info\",\"redemption_tutorials\",\"outlet_reviews_prefix_text\",\"merchant_voucher_description\",\"complete_profile_snackbar\",\"gamification_terms_and_conditions\",\"freemium_reward_info_object\",\"offer_common_terms\",\"pings_terms_and_conditions\",\"buy_back_terms_and_conditions\",\"delivery_only_outlet_message\",\"delivery_only_merchant_message\",\"service_fee_update_message\",\"service_fee_updated_button_text\",\"service_delivery_fee_popup\",\"cannot_remove_family_member_error_msg\",\"cannot_remove_family_member_error_title\",\"cannot_leave_family_error_msg\",\"cannot_leave_family_error_title\",\"promo_code_redemption_reminder_msg\",\"family_configs\",\"auto_renew_vip_key_info\",\"gift_a_friend\",\"package_offer_redemption_messages\",\"user_membership_status_data\",\"trial_activation_data\",\"buy_back_data\",\"locked_offer_info\",\"customer_service_support\",\"customer_service_support_v2\",\"location_based_home_header_information\",\"default_home_header_information\",\"auto_renewal_data\"],\"logged_in_user_configurations\":[\"complete_profile_snackbar\"],\"simple_api_config_keys\":[\"is_outlet_detail_micro_service_enabled\",\"is_freemium_gamification_on\",\"config_api_configurations_list\",\"recommendation_model_service_url\",\"outlet_detail_micro_service_url\",\"user_preferences_micro_service_url\",\"is_user_preferences_micro_service_enabled\",\"is_family_member_removal_allowed\",\"is_family_leave_allowed\",\"is_segment_analytics_enable\",\"send_segment_events_to_braze\",\"soliel_url_adv_plus\",\"coursel_auto_scroll_time_in_seconds\",\"is_coursel_auto_scroll\",\"is_show_only_valid_outlets\",\"games_widget_base_url\",\"es_outlet_listing_sorting_key\",\"hide_categories_app_search\",\"is_moneagage_enabled\",\"is_braze_enabled\",\"notification_cards_moengage_enabled\",\"notification_cards_braze_enabled\",\"eatapp_history_url\",\"email_verification_deeplink\",\"is_uxcam_enabled\",\"is_user_preferences_enabled\",\"is_family_reactivation_enabled\"]}",
+    "recommendation_model_service_url": "https://apipyrmdblue.theentertainerme.com/api_py_recommendation/v1/",
+    "outlet_detail_micro_service_url": "https://apiutb2cmerchantsrv.theentertainerme.com/api_ets/v1/",
+    "user_preferences_micro_service_url": "https://apiutb2cpyusrpref.theentertainerme.com/api_ets/v1/",
+    "is_user_preferences_micro_service_enabled": true,
+    "is_family_member_removal_allowed": false,
+    "is_family_leave_allowed": false,
+    "is_segment_analytics_enable": true,
+    "send_segment_events_to_braze": true,
+    "soliel_url_adv_plus": "https://entertainer.sandbox.advplus.ae?FromEntertainer=TRUE",
+    "coursel_auto_scroll_time_in_seconds": "5",
+    "is_coursel_auto_scroll": true,
+    "is_show_only_valid_outlets": true,
+    "games_widget_base_url": "",
+    "es_outlet_listing_sorting_key": "sorting_fields.merchant_name",
+    "hide_categories_app_search": true,
+    "is_moneagage_enabled": true,
+    "is_braze_enabled": true,
+    "notification_cards_moengage_enabled": true,
+    "notification_cards_braze_enabled": false,
+    "eatapp_history_url": "https://entutcnma.theentertainerme.com/table-reservation/booking",
+    "email_verification_deeplink": "entertainer://emailverification?url=https://entcartut.theentertainerme.com/start-verify-email?__dts=",
+    "is_uxcam_enabled": true,
+    "is_user_preferences_enabled": true,
+    "is_family_reactivation_enabled": true
+  },
+  "success": true,
+  "message": "success",
+  "cmd": "/et_rs_prd/web/v801/configs?",
+  "http_response": 200,
+  "code": 0
+}
