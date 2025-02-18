@@ -1,0 +1,195 @@
+{
+  "data": {
+    "profile": [
+      {
+        "section_identifier": "general_settings",
+        "section_list": [
+          {
+            "web_url": "",
+            "title": "Language",
+            "type": "language"
+          },
+          {
+            "web_url": "",
+            "title": "Location",
+            "type": "location"
+          },
+          {
+            "web_url": "",
+            "title": "My Account",
+            "type": "my_account"
+          },
+          {
+            "web_url": "https://entcartut.theentertainerme.com/user-wallet",
+            "title": "Wallet",
+            "type": "wallet"
+          }
+        ],
+        "section_title": ""
+      },
+      {
+        "section_identifier": "family",
+        "section_list": [
+          {
+            "web_url": "",
+            "title": "My Family",
+            "type": "my_family"
+          },
+          {
+            "web_url": "",
+            "title": "My Friends",
+            "type": "my_friends"
+          }
+        ],
+        "section_title": ""
+      },
+      {
+        "section_identifier": "pings_products",
+        "section_list": [
+          {
+            "web_url": "",
+            "title": "Pings",
+            "type": "pings"
+          },
+          {
+            "web_url": "",
+            "title": "Products",
+            "type": "products"
+          },
+          {
+            "web_url": "",
+            "title": "Analytics & Savings",
+            "type": "analytics_and_savings"
+          },
+          {
+            "web_url": "",
+            "title": "Redemptions",
+            "type": "redemptions"
+          },
+          {
+            "web_url": "",
+            "title": "Discount Code History",
+            "type": "promo_code_history"
+          },
+          {
+            "web_url": "",
+            "title": "Orders",
+            "type": "orders"
+          },
+          {
+            "web_url": "",
+            "image_url": "https://b2cappassetscdn.theentertainerme.com/mega/profile_images/profile_reservations.png",
+            "title": "Reservations",
+            "type": "reservations"
+          }
+        ],
+        "section_title": ""
+      },
+      {
+        "section_identifier": "notifications",
+        "section_list": [
+          {
+            "web_url": "",
+            "title": "Push Notifications",
+            "type": "push_notifications"
+          },
+          {
+            "web_url": "http://entcartut.theentertainerme.com/user/preferences",
+            "title": "Email Preferences",
+            "type": "email_preferences"
+          }
+        ],
+        "section_title": ""
+      },
+      {
+        "section_identifier": "web",
+        "section_list": [
+          {
+            "web_url": "",
+            "title": "How It Works?",
+            "type": "onboarding_walkthrough"
+          },
+          {
+            "web_url": "",
+            "title": "Help and Support",
+            "type": "help_and_support",
+            "list": [
+              {
+                "section_identifier": "help_and_support",
+                "section_list": [
+                  {
+                    "web_url": "https://hub.theentertainerme.com/article-categories/faqs?header=no",
+                    "title": "Help and Live Chat",
+                    "type": "help_and_live_chat"
+                  },
+                  {
+                    "web_url": "https://www.theentertainerme.com/rules-of-use",
+                    "title": "Rules of Use",
+                    "type": "rules_of_use"
+                  },
+                  {
+                    "web_url": "https://www.theentertainerme.com/hotel-rules-of-use",
+                    "title": "Hotel Rules of Use",
+                    "type": "hotel_rules_of_use"
+                  }
+                ],
+                "section_title": ""
+              }
+            ]
+          },
+          {
+            "web_url": "",
+            "title": "About",
+            "type": "about",
+            "list": [
+              {
+                "section_identifier": "about",
+                "section_list": [
+                  {
+                    "web_url": "https://entcartut.theentertainerme.com/exprs-End-User-License-Agreement",
+                    "title": "End User License Agreement",
+                    "type": "end_user_license_agreement"
+                  },
+                  {
+                    "web_url": "entertainer://feedback",
+                    "title": "Give us app feedback",
+                    "type": "give_us_app_feedback"
+                  },
+                  {
+                    "web_url": "",
+                    "title": "Rate our App",
+                    "type": "rate_our_app"
+                  }
+                ],
+                "section_title": ""
+              }
+            ]
+          }
+        ],
+        "section_title": ""
+      },
+      {
+        "section_identifier": "logout",
+        "section_list": [
+          {
+            "web_url": "",
+            "title": "Sign Out",
+            "type": "sign_out"
+          }
+        ],
+        "section_title": ""
+      }
+    ]
+  },
+  "api_params": {
+    "language": "en",
+    "platform": "android",
+    "app_version": "9.10.12",
+    "build_no": null
+  },
+  "message": "",
+  "success": true,
+  "cmd": "/et_rs_prd/web/v801/profile/settings?",
+  "http_response": 200,
+  "code": 0
+}
