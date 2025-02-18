@@ -1,0 +1,28 @@
+{
+  "data": {
+    "sections": {
+      "membership_expiry_ribbon": null,
+      "membership_expired_tile_info": null,
+      "user_pref_ribbon": {
+        "sub_title": "Set up your preferences to save even smarter!",
+        "action_button_deeplink": "https://entcartut.theentertainerme.com/user-preferences/index?__dts=",
+        "background_color": "EAF3FF",
+        "identifier": "user_preferences_banner",
+        "user_progress": 60
+      }
+    },
+    "product_expiry_date": "2025-12-31 00:00:00",
+    "product_max_expiry_date": "2025-12-31 00:00:00",
+    "product_min_expiry_date": "2025-12-31 00:00:00",
+    "trial_min_product_expiry": "2025-12-31 00:00:00",
+    "is_subscribable": false,
+    "member_type": 2,
+    "is_user_in_family": true,
+    "is_pref_updated": 0
+  },
+  "success": true,
+  "message": "success",
+  "cmd": "/et_rs_prd/web/v801/membership_home_sections_api?",
+  "http_response": 200,
+  "code": 0
+}
