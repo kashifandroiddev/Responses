@@ -1,59 +1,1582 @@
 {
-  "http_response": 200,
-  "success": true,
-  "message": "success",
   "data": {
-    "category": [
+    "is_kaligo_travel_enable": false,
+    "kaligo_encrypted_string": "login=UI71Ma0UY629H4KkJ%2BIs%2FYp8mzkBXnO2XsWzfOm9yeOEEMnhkZEsuMfb1X6ymYEHwpY4sPQbBK8q%0AvtPZ9nqQPGZkyOf5F9%2FnJ34DVKZS6cx3BQehS%2F2uKk4mJkb4nX%2Br%2BnDcZrHYswaMKuA4cBv6z9Uf%0A%2FNHvjiDUvf6Tzm%2BUhrnpresMRWw1t%2FggRSFF9466OZL4qL2zJtrpq2VdCY7M4QY8J117pjdr35fh%0AwNKc6qM%2BVNuR0xNLIGG7Q%2FcG%2BXBUahGa7SOYzRITvoV4neMiCp0LtitIlW32IY%2FlWfPBpOwN7B64%0Ak99EkJ3ISKBnZEP%2BWhKifA7VVyF6LvJR%2FSt86jfRQSfzU8QPRv0y%2BaQuvA0%3D%0A",
+    "show_only_travel_countries": false,
+    "kaligo_sign_in_api_endpoint": "https://theentertainer.kaligo.com/whitelabel/entertainer/sign_in",
+    "home_sections": [
       {
-        "id": "1",
-        "title": "BANKS"
+        "section_identifier": "stories",
+        "api_params": {
+          "section_id": 894
+        },
+        "identifier": "stories",
+        "tile_image_width": 342,
+        "tile_image_height": 141,
+        "title": "",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 1,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
       },
       {
-        "id": "2",
-        "title": "ATMS"
+        "section_identifier": "top_coursel",
+        "api_params": {
+          "section_id": 634
+        },
+        "identifier": "top_coursel",
+        "tile_image_width": 342,
+        "tile_image_height": 141,
+        "title": "",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 2,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          {
+            "tile_id": 1,
+            "is_deep_link": "1",
+            "sort_order": 0,
+            "deep_link": "entertainer://MerchantDetailPage?outlet_id=10565&merchant_id=6106",
+            "image": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/01+-+Crescendo+-+X21502076/X21502076_1.jpg",
+            "dynamic_name": "Hi kashif,",
+            "tile_type_analytics": "offers",
+            "image_p1": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/01+-+Crescendo+-+X21502076/X21502076_1.jpg",
+            "message": "2for1\r\nBrunch",
+            "button_title": "2for1\r\nBrunch",
+            "sub_title": "Redeem Now",
+            "image_p1_v9": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/01+-+Crescendo+-+X21502076/X21502076_1.jpg",
+            "merchant_logo_url": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/01+-+Crescendo+-+X21502076/Logo.jpg"
+          },
+          {
+            "tile_id": 2,
+            "is_deep_link": "1",
+            "sort_order": 0,
+            "deep_link": "entertainer://MerchantDetailPage?outlet_id=29611&merchant_id=18480",
+            "image": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/02+-+Lucky+Voice+Dubai+-+X22528090/X22528090-1.jpg",
+            "dynamic_name": "Hi kashif,",
+            "tile_type_analytics": "offers",
+            "image_p1": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/02+-+Lucky+Voice+Dubai+-+X22528090/X22528090-1.jpg",
+            "message": "2for1\r\nBrunch",
+            "button_title": "2for1\r\nBrunch",
+            "sub_title": "Redeem Now",
+            "image_p1_v9": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/02+-+Lucky+Voice+Dubai+-+X22528090/X22528090-1.jpg",
+            "merchant_logo_url": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/02+-+Lucky+Voice+Dubai+-+X22528090/logo-250.jpg"
+          },
+          {
+            "tile_id": 3,
+            "is_deep_link": "1",
+            "sort_order": 0,
+            "deep_link": "entertainer://MerchantDetailPage?outlet_id=124391&merchant_id=64742",
+            "image": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/03+-+Dubai+Miracle+Garden+-+X23950247/X23950247-5.jpg",
+            "dynamic_name": "Hi kashif,",
+            "tile_type_analytics": "offers",
+            "image_p1": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/03+-+Dubai+Miracle+Garden+-+X23950247/X23950247-5.jpg",
+            "message": "2for1\r\nFun",
+            "button_title": "2for1\r\nFun",
+            "sub_title": "Redeem Now",
+            "image_p1_v9": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/03+-+Dubai+Miracle+Garden+-+X23950247/X23950247-5.jpg",
+            "merchant_logo_url": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/03+-+Dubai+Miracle+Garden+-+X23950247/Logo-250.jpg"
+          },
+          {
+            "tile_id": 4,
+            "is_deep_link": "1",
+            "sort_order": 0,
+            "deep_link": "entertainer://MerchantDetailPage?outlet_id=123969&merchant_id=64483",
+            "image": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/04+-+ALLO+BEIRUT+-+X23948935/X23948935-2.jpg",
+            "dynamic_name": "Hi kashif,",
+            "tile_type_analytics": "offers",
+            "image_p1": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/04+-+ALLO+BEIRUT+-+X23948935/X23948935-2.jpg",
+            "message": "2for1\r\nSavings",
+            "button_title": "2for1\r\nSavings",
+            "sub_title": "Redeem Now",
+            "image_p1_v9": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/04+-+ALLO+BEIRUT+-+X23948935/X23948935-2.jpg",
+            "merchant_logo_url": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/04+-+ALLO+BEIRUT+-+X23948935/Logo-250.jpg"
+          },
+          {
+            "tile_id": 5,
+            "is_deep_link": "1",
+            "sort_order": 0,
+            "deep_link": "entertainer://MerchantDetailPage?outlet_id=3333&merchant_id=2073",
+            "image": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/05+-+Burger+King+-+X086072/BK+(1).jpg",
+            "dynamic_name": "Hi kashif,",
+            "tile_type_analytics": "offers",
+            "image_p1": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/05+-+Burger+King+-+X086072/BK+(1).jpg",
+            "message": "2for1\r\nSavings",
+            "button_title": "2for1\r\nSavings",
+            "sub_title": "Redeem Now",
+            "image_p1_v9": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/05+-+Burger+King+-+X086072/BK+(1).jpg",
+            "merchant_logo_url": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/05+-+Burger+King+-+X086072/BK+(2).jpg"
+          },
+          {
+            "tile_id": 6,
+            "is_deep_link": "1",
+            "sort_order": 0,
+            "deep_link": "entertainer://MerchantDetailPage?outlet_id=3653&merchant_id=2201",
+            "image": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/06+-+Cold+Stone+-+X086356/REV-X086356-1.jpg",
+            "dynamic_name": "Hi kashif,",
+            "tile_type_analytics": "offers",
+            "image_p1": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/06+-+Cold+Stone+-+X086356/REV-X086356-1.jpg",
+            "message": "2for1\r\nSavings",
+            "button_title": "2for1\r\nSavings",
+            "sub_title": "Redeem Now",
+            "image_p1_v9": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/06+-+Cold+Stone+-+X086356/REV-X086356-1.jpg",
+            "merchant_logo_url": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/06+-+Cold+Stone+-+X086356/logo-250.jpg"
+          }
+        ],
+        "show_all": "hwwsdk://curated?billing_country=AE&search_type=country&screen_title=Squad%20Picks&desc=Get%2025%25%20off%20on%20amazing%20places%20to%20celebrate&header_img=https://s3.eu-west-1.amazonaws.com/getaways.theentertainerme.com/web/hww_images/squad_listing_page_3_x_1.jpg",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
       },
       {
-        "id": "3",
-        "title": "UNIVERSITY"
+        "section_identifier": "savings",
+        "api_params": {
+          "section_id": 365
+        },
+        "identifier": "savings",
+        "tile_image_width": 342,
+        "tile_image_height": 141,
+        "title": "",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 3,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          {
+            "tile_id": 1,
+            "sub_title": "You haven't saved anything yet!",
+            "sort_order": 0,
+            "deep_link": "",
+            "image": "#",
+            "message": "Learn how to save more money with our crazy offers",
+            "tile_analytic_name": "Learn how to save more money with our crazy offers"
+          }
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
       },
       {
-        "id": "4",
-        "title": "SHOPS"
+        "section_identifier": "categories_new",
+        "api_params": {
+          "section_id": 1060
+        },
+        "identifier": "categories_new",
+        "tile_image_width": 50,
+        "tile_image_height": 50,
+        "title": "New Categories",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 3,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          {
+            "tile_id": 2,
+            "category_text": "",
+            "sort_order": 2,
+            "center_label_text": "",
+            "is_deep_link": "1",
+            "is_external_link": "false",
+            "deep_link": "entertainer://customfiltersearch?only_distinct_outlets=true&title=Premium%20Dining&category=FoodAndDrink&section_identifiers_or=premium_dining&is_show_listing_with_filters=true&ignore_feature_merchant_ids=57123,57125,18436&is_es_outlets_call=true&place_holder=Search%20for%20Restaurant%2C%20hotels%2C%20etc...&section_identifier=premium_dining",
+            "message": "Premium Dining",
+            "is_internal_web_back_enabled": "1",
+            "order_id": "3",
+            "image": "https://b2cappassetscdn.theentertainerme.com/v9/categories_images/Premium+dining_1.png",
+            "tile_bg_image": "https://b2cappassetscdn.theentertainerme.com/v9/categories_images/Premium+dining_1.png",
+            "section_identifier": "premium_dining",
+            "web_deep_link": "search/outlets?section=premium_dining&__key[]=__flt_secid_and&__value[]=premium_dining&__key[]=__i_travel&__value[]=0",
+            "website_video_url": "https://b2cappassetscdn.theentertainerme.com/v9/app-images-2025/Premium.gif",
+            "web_category_color": "#BFA791",
+            "category_transparent_icon": "https://b2cappassetscdn.theentertainerme.com/v9/temp/Premium+Dining3x.png"
+          },
+          {
+            "tile_id": 3,
+            "tile_bg_image": "https://b2cappassetscdn.theentertainerme.com/v9/categories_images/Casual+dining%26+Cafes_1.png",
+            "sort_order": 3,
+            "analytics_category_name": "FD",
+            "is_external_link": "false",
+            "is_free": "0",
+            "deep_link": "entertainer://customfiltersearch?only_distinct_outlets=true&title=Casual%20Dining%20%26%20Cafes&category=FoodAndDrink&section_identifiers_or=casual_dining_and_cafes&is_es_outlets_call=true&is_show_listing_with_filters=true&is_es_outlets_call=true&place_holder=Search%20for%20Restaurant%2C%20hotels%2C%20etc...&section_identifier=casual_dining_and_cafes",
+            "is_buy_page": "0",
+            "image": "https://b2cappassetscdn.theentertainerme.com/v9/categories_images/Casual+dining%26+Cafes_1.png",
+            "message": "Casual Dining & Cafes",
+            "category_id": "4",
+            "sub_title": "",
+            "is_deep_link": "1",
+            "tile_analytic_name": "CASUAL DINING",
+            "section_identifier": "casual_dining_and_cafes",
+            "web_deep_link": "search/outlets?section=casual_dining_and_cafes&__key[]=__i_travel&__value[]=0",
+            "website_video_url": "https://b2cappassetscdn.theentertainerme.com/v9/app-images-2025/Casual.gif",
+            "web_category_color": "#3D91C9",
+            "category_transparent_icon": "https://b2cappassetscdn.theentertainerme.com/v9/temp/Casual+Dining%26Cafes3x.png"
+          },
+          {
+            "tile_id": 11,
+            "section_identifier": "bistro",
+            "sort_order": 4,
+            "show_tile": true,
+            "category_color": "ffffff",
+            "is_deep_link": "1",
+            "is_external_link": "false",
+            "deep_link": "entertainer://customfiltersearch?only_distinct_outlets=true&title=Bistro&category=FoodAndDrink&section_identifiers_and=bistro&is_show_listing_with_filters=true&is_es_outlets_call=true&place_holder=Search%20for%20Restaurant%2C%20hotels%2C%20etc...&section_identifier=bistro",
+            "image": "https://b2cappassetscdn.theentertainerme.com/v9/categories_images/bistro_new_1.png",
+            "message": "Bistros",
+            "category_id": "4",
+            "analytics_category_name": "FD",
+            "is_free": "0",
+            "web_deep_link": "search/outlets?section=bistro&__key[]=__i_travel&__value[]=0",
+            "category_transparent_icon": "https://b2cappassetscdn.theentertainerme.com/v9/2025_website_images/Bistro3x.png",
+            "web_category_color": "#e86758"
+          },
+          {
+            "tile_id": 5,
+            "category_color": "ffffff",
+            "sort_order": 5,
+            "is_deep_link": "1",
+            "is_external_link": "false",
+            "deep_link": "entertainer://customfiltersearch?only_distinct_outlets=true&title=Informal%20Dining%20%26%20Takeaway&category=FoodAndDrink&section_identifiers_or=informal_dining_takeaway&selected_place_location_ids=1&is_es_outlets_call=true&is_show_listing_with_filters=true&place_holder=Search%20for%20Restaurant%2C%20hotels%2C%20etc...&section_identifier=informal_dining_takeaway",
+            "image": "https://b2cappassetscdn.theentertainerme.com/v9/categories_images/Informal+dining%26Takeaway_1.png",
+            "message": "Informal Dining & Takeaway",
+            "category_id": "4",
+            "analytics_category_name": "FD",
+            "is_free": "0",
+            "is_buy_page": "0",
+            "order_id": "5",
+            "tile_bg_image": "https://b2cappassetscdn.theentertainerme.com/v9/categories_images/Informal+dining%26Takeaway_1.png",
+            "sub_title": "",
+            "tile_analytic_name": "Takeaway",
+            "section_identifier": "informal_dining_takeaway",
+            "web_deep_link": "search/outlets?section=informal_dining_takeaway&__key[]=__i_travel&__value[]=0",
+            "web_category_color": "#C185C2",
+            "category_transparent_icon": "https://b2cappassetscdn.theentertainerme.com/v9/temp/ID%26T+3X.png"
+          },
+          {
+            "tile_id": 6,
+            "category_color": "ffffff",
+            "sort_order": 6,
+            "is_deep_link": "1",
+            "is_external_link": "false",
+            "deep_link": "entertainer://customfiltersearch?only_distinct_outlets=true&title=Attractions%20%26%20Leisure&category=AttractionsAndLeisure&selected_place_location_ids=1&is_show_listing_with_filters=true&is_es_outlets_call=true&place_holder=Theme%20park,%20desert%20safari,%20indoor%20activities%20etc&section_identifier=sports_leisure",
+            "image": "https://b2cappassetscdn.theentertainerme.com/v9/categories_images/Attraction%26Lesiure_1.png",
+            "message": "Attractions & Leisure",
+            "category_id": "4",
+            "analytics_category_name": "FD",
+            "is_free": "0",
+            "tile_bg_image": "https://b2cappassetscdn.theentertainerme.com/v9/categories_images/Attraction%26Lesiure_1.png",
+            "section_identifier": "sports_leisure",
+            "web_deep_link": "search/outlets?section=sports_leisure&__key[]=__i_travel&__value[]=0",
+            "website_video_url": "https://b2cappassetscdn.theentertainerme.com/v9/app-images-2025/Attractions.gif",
+            "web_category_color": "#4EAF9D",
+            "category_transparent_icon": "https://b2cappassetscdn.theentertainerme.com/v9/temp/Attraction+%26+Lesure+3x.png"
+          },
+          {
+            "tile_id": 8,
+            "deep_link": "entertainer://customfiltersearch?only_distinct_outlets=true&title=Beauty%20%26%20Fitness&category=BeautyAndFitness&selected_location_id=1&is_es_outlets_call=true&is_show_listing_with_filters=true&is_es_outlets_call=true&place_holder=Hair%20%26%20beauty%20salons%2C%20spas%2C%20dental%2C%20pools%20etc&section_identifier=beauty_fitness",
+            "sort_order": 8,
+            "image": "https://b2cappassetscdn.theentertainerme.com/v9/categories_images/Beauty%26Fitness_1.png",
+            "message": "Beauty & Fitness",
+            "category_color": "ffffff",
+            "is_deep_link": "1",
+            "is_external_link": "false",
+            "category_id": "4",
+            "analytics_category_name": "BF",
+            "is_free": "0",
+            "is_buy_page": "1",
+            "tile_bg_image": "https://b2cappassetscdn.theentertainerme.com/v9/categories_images/Beauty%26Fitness_1.png",
+            "sub_title": "",
+            "section_identifier": "beauty_fitness",
+            "web_deep_link": "search/outlets?section=beauty_fitness&__key[]=__i_travel&__value[]=0",
+            "website_video_url": "https://b2cappassetscdn.theentertainerme.com/v9/app-images-2025/Beauty.gif",
+            "web_category_color": "#A1005B",
+            "category_transparent_icon": "https://b2cappassetscdn.theentertainerme.com/v9/temp/Beauty%26Fitness3x.png"
+          },
+          {
+            "tile_id": 12,
+            "category_color": "ffffff",
+            "sort_order": 9,
+            "is_deep_link": "1",
+            "is_external_link": "false",
+            "deep_link": "entertainer://customfiltersearch?only_distinct_outlets=true&category=HotelsWorldwide&title=Hotels%20Worldwide&include_travel_outlets=1&is_show_listing_with_filters=true&is_es_outlets_call=true&place_holder=Search%20for%20hotels%2C%20etc...&section_identifier=hotels_stay&show_destination=true",
+            "message": "Hotels Worldwide",
+            "category_id": "4",
+            "tile_bg_image": "https://b2cappassetscdn.theentertainerme.com/v9/categories_images/Hotels+worldwide_1.png",
+            "sub_title": "",
+            "image": "https://b2cappassetscdn.theentertainerme.com/v9/categories_images/Hotels+worldwide_1.png",
+            "section_identifier": "hotels_stay",
+            "web_deep_link": "search/outlets?__key[]=__flt_secid_and&__value[]=hotels_stay&section=hotels_stay",
+            "website_video_url": "https://b2cappassetscdn.theentertainerme.com/v9/app-images-2025/Hotel.gif",
+            "web_category_color": "#B09767",
+            "category_transparent_icon": "https://b2cappassetscdn.theentertainerme.com/v9/temp/Hotels+Worldwide3x.png"
+          },
+          {
+            "tile_id": 26,
+            "category_color": "ffffff",
+            "sort_order": 9,
+            "is_deep_link": 1,
+            "is_external_link": "false",
+            "deep_link": "entertainer://delivery?cashless_delivery_enabled=true&is_take_away=false",
+            "message": "Delivery",
+            "category_id": 4,
+            "tile_bg_image": "https://b2cappassetscdn.theentertainerme.com/v9/delivery_home_tile.png",
+            "sub_title": "",
+            "web_deep_link": "search/outlets?__key[]=__coff_t&__value[]=delivery",
+            "text_color": 484848,
+            "border_color": "4DD691",
+            "image_gif": "https://b2cappassetscdn.theentertainerme.com/v9/delivery_bike_icon_1.gif",
+            "web_category_color": "#4EAF9D",
+            "section_identifier": "delivery",
+            "category_transparent_icon": "https://b2cappassetscdn.theentertainerme.com/v9/2025_website_images/White-version_delivery.gif"
+          }
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
       },
       {
-        "id": "5",
-        "title": "FUEL STATIONS"
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 827
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Top Business Lunch",
+        "sub_title": "<b>AED 10,560,000</b> saved last week",
+        "shuffle_tiles": 0,
+        "sorting_order": 4,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "https://b2cappassetscdn.theentertainerme.com/images/saving_with_liteoff_1.png",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
       },
       {
-        "id": "6",
-        "title": "CLOTHS"
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 862
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Trending Offers\u00a0",
+        "sub_title": "",
+        "shuffle_tiles": 1,
+        "sorting_order": 5,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 1082
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Monthly Brunch Offers",
+        "sub_title": "",
+        "shuffle_tiles": 1,
+        "sorting_order": 6,
+        "web_deeplink": "/search/outlets?__key[]=__sb_c&__value[]=attributes_4_387",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": "entertainer://customfiltersearch?title=Monthly%20Brunch%20Offers&category=FoodAndDrink&sub_category_cuisine_attribute_ids=attributes_4_387",
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 633
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Save with Lite Offers",
+        "sub_title": "<b>AED 10,560,000</b> saved last week",
+        "shuffle_tiles": 1,
+        "sorting_order": 6,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "https://b2cappassetscdn.theentertainerme.com/images/saving_with_liteoff_1.png",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 1008
+        },
+        "identifier": "merchant_widget",
+        "tile_image_width": 50,
+        "tile_image_height": 50,
+        "title": "Entertainer Picks",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 6,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 1007
+        },
+        "identifier": "merchant_widget",
+        "tile_image_width": 50,
+        "tile_image_height": 50,
+        "title": "Monthly Brunch Offers",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 6,
+        "web_deeplink": "/search/outlets?__key[]=__sb_c&__value[]=attributes_4_387",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": "entertainer://customfiltersearch?title=Monthly%20Brunch%20Offers&category=FoodAndDrink&sub_category_cuisine_attribute_ids=attributes_4_387",
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "delivery",
+        "api_params": {
+          "section_id": 368
+        },
+        "identifier": "delivery",
+        "tile_image_width": 342,
+        "tile_image_height": 141,
+        "title": "Delivery Offers",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 7,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "https://entertainer-app-assets.s3.amazonaws.com/mega/icons/delivery.png",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 1309
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Pool And Beach Offers",
+        "sub_title": null,
+        "shuffle_tiles": 1,
+        "sorting_order": 7,
+        "web_deeplink": null,
+        "see_all_text": null,
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 623
+        },
+        "identifier": "merchant_widget",
+        "tile_image_width": 50,
+        "tile_image_height": 50,
+        "title": "Instagram Worthy",
+        "sub_title": "",
+        "shuffle_tiles": 1,
+        "sorting_order": 12,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 863
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Popular Attraction ",
+        "sub_title": "",
+        "shuffle_tiles": 1,
+        "sorting_order": 13,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 626
+        },
+        "identifier": "merchant_widget",
+        "tile_image_width": 50,
+        "tile_image_height": 50,
+        "title": "Recommended Venues",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 14,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 627
+        },
+        "identifier": "merchant_widget",
+        "tile_image_width": 50,
+        "tile_image_height": 50,
+        "title": "Gourmet Dining",
+        "sub_title": "",
+        "shuffle_tiles": 1,
+        "sorting_order": 15,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 853
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Premium Spa ",
+        "sub_title": "",
+        "shuffle_tiles": 1,
+        "sorting_order": 16,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 902
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Tea Anyone?",
+        "sub_title": "",
+        "shuffle_tiles": 1,
+        "sorting_order": 24,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 903
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Everything Breakfast",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 25,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 904
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "ATT: Thrill Seekers",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 26,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 905
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Family-friendly Fun",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 27,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 918
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Date Night with a difference",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 27,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 981
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Bragworthy Brunches",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 28,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 980
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Decadent Dining",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 29,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 919
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Kid-centric Attractions",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 30,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 916
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Top Spots for Newbies",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 31,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 924
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Unique Feats & Fun",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 32,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 928
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Good-for-you Foods",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 33,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 927
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Insta-worthy Hotspots",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 34,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 962
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Hidden Hotspots",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 34,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 926
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "View-centric Restaurants",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 35,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 963
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Sweet Treats",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 35,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 925
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Beach & Poolside Dining",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 36,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 964
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Members Top Picks",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 36,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 965
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Sushi Spots",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 37,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 966
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Pizza Places",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 38,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 967
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Taste of India",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 39,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 968
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Japanese Cuisine",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 40,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 983
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Prime Steak  Places",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 41,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 982
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Mani & Pedi's",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 42,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 979
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Everyday Essentials",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 43,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 978
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Go Golfing",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 44,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 977
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Acoustic Appetites",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 45,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 976
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Celebrity Chefs ",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 46,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 974
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Relax & Rejuvenate",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 47,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 975
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Marvelous Meals",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 48,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 973
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Unseen Savings",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 49,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 972
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Paw-fect Grooming",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 50,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 971
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Seafood Spots",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 51,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 970
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Authentic Italian",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 52,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 969
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Chinese Chow",
+        "sub_title": "",
+        "shuffle_tiles": 0,
+        "sorting_order": 53,
+        "web_deeplink": "/search/outlets",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 1081
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Monthly Brunch Offers",
+        "sub_title": "",
+        "shuffle_tiles": 1,
+        "sorting_order": 95,
+        "web_deeplink": "/search/outlets?__key[]=__sb_c&__value[]=attributes_4_387",
+        "see_all_text": "See All",
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": "entertainer://customfiltersearch?include_featured_merchants=false&title=Monthly%20Brunch%20Offers&category=FoodAndDrink&sub_category_cuisine_attribute_ids=attributes_4_387&is_show_listing_with_filters=true&is_es_outlets_call=true&section_identifier=all_outlets",
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 1083
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Monthly Entertainer Picks",
+        "sub_title": "",
+        "shuffle_tiles": 1,
+        "sorting_order": 96,
+        "web_deeplink": null,
+        "see_all_text": null,
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": null,
+        "translated_deep_link": null,
+        "is_overlap": false
+      },
+      {
+        "section_identifier": "merchant_widget",
+        "api_params": {
+          "section_id": 1085,
+          "category_id": 6
+        },
+        "identifier": null,
+        "tile_image_width": 0,
+        "tile_image_height": 0,
+        "title": "Hotels Worldwide",
+        "sub_title": "",
+        "shuffle_tiles": 1,
+        "sorting_order": 100,
+        "web_deeplink": null,
+        "see_all_text": null,
+        "icon_url": "",
+        "tiles": [
+          
+        ],
+        "show_all": "",
+        "section_deep_link": "entertainer://customfiltersearch?include_featured_merchants=false&category=Travel&title=Hotels%20Worldwide&include_travel_outlets=1&is_show_listing_with_filters=true&is_es_outlets_call=true&place_holder=Search%20for%20hotels%2C%20etc...&section_identifier=hotels_stay",
+        "translated_deep_link": null,
+        "is_overlap": false
       }
     ],
-    "banner": [
-      {
-        "id": "1",
-        "image": "https://casasensei.com/wp-content/uploads/2019/06/South-Indian-Bruschetta-Recipe.jpg"
+    "location": {
+      "snack_bar_title": "Your location is set to LOCATION_NAME",
+      "snack_bar_des": "Need to change? Go to your Profile page.",
+      "name": "Dubai & N. Emirates",
+      "id": 1,
+      "lat": 25.300579,
+      "lng": 55.307709,
+      "delivery_tab": {
+        "delivery_type": "cashless-delivery",
+        "outlets_api_params": {
+          "is_take_away": false,
+          "cashless_delivery_enabled": true
+        },
+        "is_cashless_enabled": true
       },
-      {
-        "id": "2",
-        "image": "https://thenypost.files.wordpress.com/2019/09/junk-food-turns-kid-blind.jpg?quality=90&strip=all&w=618&h=410&crop=1"
+      "membership_to_expire_sub_title": "Renew to keep saving with top offers.",
+      "all_outlets": {
+        "category": "All",
+        "deeplink": "entertainer://customfiltersearch?category=all&include_featured_merchants=false&selected_location_id=2&is_es_outlets_call=true&is_show_listing_with_filters=true&place_holder=Search...&section_identifier=all_outlets&include_travel_outlets=0&__i_travel=0",
+        "title_ar": "\u062c\u0645\u064a\u0639 \u0627\u0644\u0645\u0646\u0627\u0641\u0630",
+        "title_en": "All Outlets",
+        "placeholder_ar": "... \u0628\u062d\u062b",
+        "placeholder_en": "Search ...",
+        "privilege_type": "all-outlets",
+        "outlets_api_params": {
+          "category": "all"
+        },
+        "section_identifier": "all_outlets",
+        "is_show_listing_with_filters": true
       },
-      {
-        "id": "3",
-        "image": "https://images2.minutemediacdn.com/image/upload/c_crop,h_1126,w_2000,x_0,y_181/f_auto,q_auto,w_1100/v1554932288/shape/mentalfloss/12531-istock-637790866.jpg"
+      "privilege_tab": {
+        "outlets_api_params": {
+          "is_epc": 1,
+          "epc_enabled": true
+        }
       },
-      {
-        "id": "4",
-        "image": "https://casasensei.com/wp-content/uploads/2019/06/South-Indian-Bruschetta-Recipe.jpg"
-      },
-      {
-        "id": "5",
-        "image": "https://thenypost.files.wordpress.com/2019/09/junk-food-turns-kid-blind.jpg?quality=90&strip=all&w=618&h=410&crop=1"
-      },
-      {
-        "id": "6",
-        "image": "https://images2.minutemediacdn.com/image/upload/c_crop,h_1126,w_2000,x_0,y_181/f_auto,q_auto,w_1100/v1554932288/shape/mentalfloss/12531-istock-637790866.jpg"
-      }
-    ]
-  }
+      "savings_image_url": "https://b2cappassetscdn.theentertainerme.com/savings_image.png",
+      "savings_small_image_url": "https://b2cappassetscdn.theentertainerme.com/savings_image_small.png"
+    },
+    "user": {
+      "smiles": 41609,
+      "profile_picture": "https://entertainer-profile-images.s3.amazonaws.com/6760400_kcBMu8hrqnvBbLX6qdPC6fPdh6mj5R93.jpg",
+      "vip_company_logo_url": "",
+      "saving_widget_message": "Discover exclusive offers that you just can't refuse",
+      "saving_widget_button_text": "Explore Offers",
+      "deeplink": "",
+      "savings_text": "AED 0",
+      "savings_estimate_user_currency": 0,
+      "last_saved_savings": null
+    },
+    "user_favourite_merchant_ids": [
+      2087,
+      60756,
+      63548,
+      50738,
+      62626,
+      34105,
+      27800,
+      4548,
+      1286,
+      56156,
+      55644,
+      54329
+    ],
+    "user_saving_info": {
+      "title": "How to save money",
+      "subtitle": "Explaination about our offers, how can you get more discounts to save money etc.",
+      "description": "How we want to use this area to educate our members"
+    },
+    "chat_help_url": "https://hub.theentertainerme.com/article-categories/faqs?header=no&language=%s",
+    "is_help_enabled": true
+  },
+  "success": true,
+  "message": "success",
+  "cmd": "/et_rs_prd/web/v801/home?",
+  "http_response": 200,
+  "code": 0
 }
