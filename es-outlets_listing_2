@@ -1,0 +1,5744 @@
+{
+  "data": {
+    "featured_merchants": [
+      
+    ],
+    "outlets": [
+      {
+        "id": 1494,
+        "sfId": "O244599",
+        "is_new": false,
+        "name": "Lulu Mall Fujairah",
+        "email": "info.sparkysuae@alhokair.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 9 224 4046",
+        "lat": 25.119801,
+        "lng": 56.328201,
+        "human_location": "2nd Level",
+        "neighborhood": "Fujairah",
+        "neighborhood_url": "https://b2cappscargillcdn.theentertainerme.com/freemium_images/405f7c2284cb38d8a0337f0d3b867448.j",
+        "mall": "Lulu Mall Fujairah",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 4.2,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1892992,
+        "merchant_name": "Sparky's Amusement",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Sparky's Amusement",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "AL",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368
+        ],
+        "section_identifiers": [
+          "sports_leisure"
+        ],
+        "max_savings_estimate": 500,
+        "merchant": {
+          "id": 958,
+          "name": "Sparky's Amusement",
+          "name_for_outlet": "Sparky's Amusement",
+          "category": "Leisure",
+          "ad_travel_country": "",
+          "ad_active_status": "0",
+          "logo_url": "https://offerengine.theentertainerme.com/sparkys-amusement-x037528/merchant_primary_logo_%28retina%29_-_merchant.png",
+          "logo_small_url": "https://offerengine.theentertainerme.com/sparkys-amusement-x037528/merchant_primary_logo_%28non-retina%29_-_merchant.png",
+          "photo_url": "https://offerengine.theentertainerme.com/sparkys-amusement-x037528/merchant_profile_%22hero%22_image_%28retina%29202412091250.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/sparkys-amusement-x037528/merchant_profile_%22hero%22_image_%28retina%29202412091250.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            
+          ],
+          "categories": [
+            "Leisure"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Attractions & Leisure",
+              "color": "88C867"
+            }
+          ],
+          "price_range_text": "$$$",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 37517,
+        "sfId": "O23306141",
+        "is_new": false,
+        "name": "Fujairah Mall",
+        "email": "",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 9 223 0652",
+        "lat": 25.123329,
+        "lng": 56.315315,
+        "human_location": "2nd Level",
+        "neighborhood": "Fujairah",
+        "neighborhood_url": "https://b2cappscargillcdn.theentertainerme.com/freemium_images/405f7c2284cb38d8a0337f0d3b867448.j",
+        "mall": "Fujairah Mall",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1893988,
+        "merchant_name": "Fun Block - Dubai",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Fun Block - Dubai",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "AL",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338
+        ],
+        "section_identifiers": [
+          "sports_leisure"
+        ],
+        "max_savings_estimate": 104,
+        "merchant": {
+          "id": 8641,
+          "name": "Fun Block - Dubai",
+          "name_for_outlet": "Fun Block - Dubai",
+          "category": "Leisure",
+          "ad_travel_country": "",
+          "ad_active_status": "0",
+          "logo_url": "https://offerengine.theentertainerme.com/fun-block---dubai-x21687820/merchant_primary_logo_%28retina%29_-_merchant.png",
+          "logo_small_url": "https://offerengine.theentertainerme.com/fun-block---dubai-x21687820/merchant_primary_logo_%28non-retina%29_-_merchant.png",
+          "photo_url": "https://offerengine.theentertainerme.com/fun-block---dubai-x21687820/merchant_profile_%22hero%22_image_%28retina%29202501131628.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/fun-block---dubai-x21687820/merchant_profile_%22hero%22_image_%28retina%29202501131628.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            
+          ],
+          "categories": [
+            "Leisure"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Attractions & Leisure",
+              "color": "88C867"
+            }
+          ],
+          "price_range_text": "$",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 68652,
+        "sfId": "O23880827",
+        "is_new": false,
+        "name": "Citymax Hotels Ras Al Khaimah",
+        "email": "ian.perera@citymaxhotels.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 56 992 2286",
+        "lat": 25.793283,
+        "lng": 55.969143,
+        "human_location": "Ground Level",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "",
+        "hotel": "Citymax Hotel Ras Al Khaimah",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 4.7,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1894302,
+        "merchant_name": "The Huddle - Ras Al Khaimah",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "The Huddle - Ras Al Khaimah",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338,
+          53372
+        ],
+        "section_identifiers": [
+          "pubs_bars",
+          "bistro"
+        ],
+        "max_savings_estimate": 60,
+        "merchant": {
+          "id": 39615,
+          "name": "The Huddle - Ras Al Khaimah",
+          "name_for_outlet": "The Huddle - Ras Al Khaimah",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": 0,
+          "logo_url": "https://offerengine.theentertainerme.com/the-huddle---ras-al-khaimah-x23876292/merchant_primary_logo_%28retina%29_-_merchant.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/the-huddle---ras-al-khaimah-x23876292/merchant_primary_logo_%28non-retina%29_-_merchant.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/the-huddle---ras-al-khaimah-x23876292/merchant_profile_%22hero%22_image_%28retina%292024120401055.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/the-huddle---ras-al-khaimah-x23876292/merchant_profile_%22hero%22_image_%28retina%292024120401055.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "International"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "International",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 68638,
+        "sfId": "O23880829",
+        "is_new": false,
+        "name": "Citymax Hotels Ras Al Khaimah",
+        "email": "",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 56 992 2286",
+        "lat": 25.793283,
+        "lng": 55.969025,
+        "human_location": "Mezzanine Level",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "",
+        "hotel": "Citymax Hotel Ras Al Khaimah",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 4.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1894312,
+        "merchant_name": "Pet Patio",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Pet Patio",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "ES",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53390
+        ],
+        "section_identifiers": [
+          "everyday_services"
+        ],
+        "max_savings_estimate": 100,
+        "merchant": {
+          "id": 64701,
+          "name": "Pet Patio",
+          "name_for_outlet": "Pet Patio",
+          "category": "Services",
+          "ad_travel_country": "",
+          "ad_active_status": "0",
+          "logo_url": "https://offerengine.theentertainerme.com/pet-patio-x23947156/merchant_primary_logo_%28retina%29_-_merchant20240814010152024081401023.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/pet-patio-x23947156/merchant_primary_logo_%28non-retina%29_-_merchant20240814010152024081401023.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/pet-patio-x23947156/merchant_profile_%22hero%22_image_%28retina%292024081401015.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/pet-patio-x23947156/merchant_profile_%22hero%22_image_%28retina%292024081401015.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            
+          ],
+          "categories": [
+            "Services"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Everyday Services",
+              "color": "20909A"
+            }
+          ],
+          "price_range_text": "",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 110840,
+        "sfId": "O23933164",
+        "is_new": false,
+        "name": "Rixos Al Mairid Ras Al Khaimah",
+        "email": "info@naturelifespa.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 50 645 9246",
+        "lat": 25.8141,
+        "lng": 55.957733,
+        "human_location": "Al Maareedh Street, New Al Maireed",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "",
+        "hotel": "Rixos Al Mairid Ras Al Khaimah",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1894420,
+        "merchant_name": "Naturelife Spa Premium",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Naturelife Spa Premium",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "BF",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368
+        ],
+        "section_identifiers": [
+          "beauty_fitness"
+        ],
+        "max_savings_estimate": 699,
+        "merchant": {
+          "id": 21924,
+          "name": "Naturelife Spa Premium",
+          "name_for_outlet": "Naturelife Spa Premium",
+          "category": "Body",
+          "ad_travel_country": "",
+          "ad_active_status": "0",
+          "logo_url": "https://offerengine.theentertainerme.com/naturelife-x23263429/merchant_primary_logo_%28retina%29_-_merchant202104041235.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/naturelife-x23263429/merchant_primary_logo_%28non-retina%29_-_merchant202104041236.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/naturelife-spa-premium-x23263429/merchant_profile_%22hero%22_image_%28retina%29202412091119.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/naturelife-spa-premium-x23263429/merchant_profile_%22hero%22_image_%28retina%29202412091119.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            
+          ],
+          "categories": [
+            "Body"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Beauty & Fitness",
+              "color": "C7318C"
+            }
+          ],
+          "price_range_text": "$$$$",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 38351,
+        "sfId": "O23326609",
+        "is_new": false,
+        "name": "Action Hotel Ras Al Khaimah",
+        "email": "reservation@actionhotelsrak.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7 246 5222",
+        "lat": 25.79949,
+        "lng": 55.959824,
+        "human_location": "Ground Level",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "",
+        "hotel": "Action Hotel Ras Al Khaimah",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1894880,
+        "merchant_name": "Fresh Restaurant",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Fresh Restaurant",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338,
+          53372,
+          53390
+        ],
+        "section_identifiers": [
+          "casual_dining_and_cafes",
+          "casual_dining"
+        ],
+        "max_savings_estimate": 45,
+        "merchant": {
+          "id": 22778,
+          "name": "Fresh Restaurant",
+          "name_for_outlet": "Fresh Restaurant",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": 0,
+          "logo_url": "https://offerengine.theentertainerme.com/fresh-restaurant-x23306794/merchant_primary_logo_%28retina%29_-_merchant2022010280925.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/fresh-restaurant-x23306794/merchant_primary_logo_%28non-retina%29_-_merchant2022010280925.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/fresh-restaurant-x23306794/merchant_profile_%22hero%22_image_%28retina%29202409190936.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/fresh-restaurant-x23306794/merchant_profile_%22hero%22_image_%28retina%29202409190936.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "American"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "American",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "$$",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 80073,
+        "sfId": "O23893402",
+        "is_new": false,
+        "name": "Manar Mall Ras Al Khaimah",
+        "email": "info@tridom.ae",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7 228 1110",
+        "lat": 25.786135,
+        "lng": 55.965702,
+        "human_location": "Ground Level",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "Al Manar Mall",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 4.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1894937,
+        "merchant_name": "Tridom",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Tridom",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "AL",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338
+        ],
+        "section_identifiers": [
+          "sports_leisure"
+        ],
+        "max_savings_estimate": 80,
+        "merchant": {
+          "id": 46293,
+          "name": "Tridom",
+          "name_for_outlet": "Tridom",
+          "category": "Leisure",
+          "ad_travel_country": "",
+          "ad_active_status": 0,
+          "logo_url": "https://offerengine.theentertainerme.com/tridom-x23888525/merchant_primary_logo_%28retina%29_-_merchant2019110301009.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/tridom-x23888525/merchant_primary_logo_%28non-retina%29_-_merchant2019110301009.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/tridom-x23888525/merchant_profile_%22hero%22_image_%28retina%292024010141100.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/tridom-x23888525/merchant_profile_%22hero%22_image_%28retina%292024010141100.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            
+          ],
+          "categories": [
+            "Leisure"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Attractions & Leisure",
+              "color": "88C867"
+            }
+          ],
+          "price_range_text": "",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 122076,
+        "sfId": "O23955203",
+        "is_new": false,
+        "name": "Al Manar Mall",
+        "email": "info@othrestaurant.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7 208 2858",
+        "lat": 25.784801,
+        "lng": 55.965969,
+        "human_location": "Dafan Al Nakheel",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "Al Manar Mall",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1894972,
+        "merchant_name": "Off The HOOK - Dubai",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Off The HOOK - Dubai",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          368
+        ],
+        "home_screen_section_data": [
+          {
+            "id": 368,
+            "image_url": null,
+            "web_image_url": null,
+            "shuffle_tiles": 0,
+            "sort_order": 0
+          }
+        ],
+        "product_ids": [
+          53368,
+          53338
+        ],
+        "section_identifiers": [
+          "casual_dining_and_cafes",
+          "casual_dining"
+        ],
+        "max_savings_estimate": 55,
+        "merchant": {
+          "id": 27860,
+          "name": "Off The HOOK - Dubai",
+          "name_for_outlet": "Off The HOOK - Dubai",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": 0,
+          "logo_url": "https://offerengine.theentertainerme.com/off-the-hook---dubai-x23778791/merchant_primary_logo_%28retina%29_-_merchant.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/off-the-hook---dubai-x23778791/merchant_primary_logo_%28non-retina%29_-_merchant.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/off-the-hook---dubai-x23778791/merchant_profile_%22hero%22_image_%28retina%29202406191522202406191525.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/off-the-hook---dubai-x23778791/merchant_profile_%22hero%22_image_%28retina%29202406191522202406191525.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "Arabic"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Arabic",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "$$$",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 121272,
+        "sfId": "O23953592",
+        "is_new": false,
+        "name": "Al Manar Mall",
+        "email": "flippeduae@gmail.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 6 573 6068",
+        "lat": 25.784781,
+        "lng": 55.965969,
+        "human_location": "Ground Level",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "Al Manar Mall",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1894973,
+        "merchant_name": "Flipped",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Flipped",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "AL",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338
+        ],
+        "section_identifiers": [
+          "sports_leisure"
+        ],
+        "max_savings_estimate": 65,
+        "merchant": {
+          "id": 63664,
+          "name": "Flipped",
+          "name_for_outlet": "Flipped",
+          "category": "Leisure",
+          "ad_travel_country": "",
+          "ad_active_status": 0,
+          "logo_url": "https://offerengine.theentertainerme.com/flipped-x23944675/merchant_primary_logo_%28retina%29_-_merchant202405091431.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/flipped-x23944675/merchant_primary_logo_%28non-retina%29_-_merchant202405091432.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/flipped-x23944675/merchant_profile_%22hero%22_image_%28retina%29202501131608.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/flipped-x23944675/merchant_profile_%22hero%22_image_%28retina%29202501131608.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            
+          ],
+          "categories": [
+            "Leisure"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Attractions & Leisure",
+              "color": "88C867"
+            }
+          ],
+          "price_range_text": "",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 121544,
+        "sfId": "O23953910",
+        "is_new": true,
+        "name": "Al Manar Mall",
+        "email": "truegamers.vn@gmail.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 55 894 8010",
+        "lat": 25.785061,
+        "lng": 55.965729,
+        "human_location": "Ground Level, Shop MM115",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "Al Manar Mall",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1894982,
+        "merchant_name": "True Gamers",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "True Gamers",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "AL",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338
+        ],
+        "section_identifiers": [
+          "sports_leisure"
+        ],
+        "max_savings_estimate": 60,
+        "merchant": {
+          "id": 63156,
+          "name": "True Gamers",
+          "name_for_outlet": "True Gamers",
+          "category": "Leisure",
+          "ad_travel_country": "",
+          "ad_active_status": 0,
+          "logo_url": "https://offerengine.theentertainerme.com/true-gamers-x23943038/merchant_primary_logo_%28retina%29_-_merchant2024020901028.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/true-gamers-x23943038/merchant_primary_logo_%28non-retina%29_-_merchant2024020901028.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/true-gamers-x23943038/merchant_profile_%22hero%22_image_%28retina%292024010241617.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/true-gamers-x23943038/merchant_profile_%22hero%22_image_%28retina%292024010241617.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "International"
+          ],
+          "categories": [
+            "Leisure"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "International",
+              "color": "4F99D2"
+            },
+            {
+              "title": "Attractions & Leisure",
+              "color": "88C867"
+            }
+          ],
+          "price_range_text": "",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 119269,
+        "sfId": "O23949976",
+        "is_new": true,
+        "name": "Al Manar Mall",
+        "email": "",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7 246 5050",
+        "lat": 25.783808,
+        "lng": 55.965622,
+        "human_location": "Shop GF-01",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "Al Manar Mall",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1895048,
+        "merchant_name": "Shake Shack",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Shake Shack",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338
+        ],
+        "section_identifiers": [
+          "casual_dining_and_cafes",
+          "casual_dining"
+        ],
+        "max_savings_estimate": 50,
+        "merchant": {
+          "id": 63820,
+          "name": "Shake Shack",
+          "name_for_outlet": "Shake Shack",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": 0,
+          "logo_url": "https://offerengine.theentertainerme.com/shake-shack-x21112904/merchant_primary_logo_%28retina%29_-_merchant202406150653.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/shake-shack-x21112904/merchant_primary_logo_%28non-retina%29_-_merchant202406150653.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/shake-shack-x21112904/merchant_profile_%22hero%22_image_%28retina%292024010250903.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/shake-shack-x21112904/merchant_profile_%22hero%22_image_%28retina%292024010250903.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "American"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "American",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 77346,
+        "sfId": "O23889956",
+        "is_new": false,
+        "name": "Al Manar Mall",
+        "email": "info@optx2020.ae",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7 233 0236",
+        "lat": 25.783979,
+        "lng": 55.965149,
+        "human_location": "Shop No. M09, Ground Level",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "Al Manar Mall",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1895084,
+        "merchant_name": "OPTX by Al Jaber",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "OPTX by Al Jaber",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368
+        ],
+        "section_identifiers": [
+          "everyday_services"
+        ],
+        "max_savings_estimate": 500,
+        "merchant": {
+          "id": 44422,
+          "name": "OPTX by Al Jaber",
+          "name_for_outlet": "OPTX by Al Jaber",
+          "category": "Retail",
+          "ad_travel_country": "",
+          "ad_active_status": "0",
+          "logo_url": "https://offerengine.theentertainerme.com/optx-2020-x23885321/merchant_primary_logo_%28retina%29_-_merchant202312221703.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/optx-2020-x23885321/merchant_primary_logo_%28non-retina%29_-_merchant202312221703.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/optx-2020-x23885321/merchant_profile_%22hero%22_image_%28retina%29202407021540.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/optx-2020-x23885321/merchant_profile_%22hero%22_image_%28retina%29202407021540.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            
+          ],
+          "categories": [
+            "Retail"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Fashion & Retail",
+              "color": "9866AC"
+            }
+          ],
+          "price_range_text": "",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 116898,
+        "sfId": "O23945278",
+        "is_new": false,
+        "name": "Kalba Mall, Sharjah",
+        "email": "info@funcity.ae",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 9 243 2645",
+        "lat": 25.018789,
+        "lng": 56.360664,
+        "human_location": "Ground & 1st Level",
+        "neighborhood": "Sharjah",
+        "neighborhood_url": null,
+        "mall": "Kalba Mall",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1894999,
+        "merchant_name": "Fun City - Dubai",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Fun City - Dubai",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "AL",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338
+        ],
+        "section_identifiers": [
+          "sports_leisure"
+        ],
+        "max_savings_estimate": 80,
+        "merchant": {
+          "id": 991,
+          "name": "Fun City - Dubai",
+          "name_for_outlet": "Fun City - Dubai",
+          "category": "Leisure",
+          "ad_travel_country": "",
+          "ad_active_status": "0",
+          "logo_url": "https://offerengine.theentertainerme.com/fun-city---dubai-x036666/merchant_primary_logo_%28retina%29_-_merchant.png",
+          "logo_small_url": "https://offerengine.theentertainerme.com/fun-city---dubai-x036666/merchant_primary_logo_%28non-retina%29_-_merchant.png",
+          "photo_url": "https://offerengine.theentertainerme.com/fun-city---dubai-x036666/merchant_profile_%22hero%22_image_%28retina%29202501131633.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/fun-city---dubai-x036666/merchant_profile_%22hero%22_image_%28retina%29202501131633.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            
+          ],
+          "categories": [
+            "Leisure"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Attractions & Leisure",
+              "color": "88C867"
+            }
+          ],
+          "price_range_text": "$",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 119972,
+        "sfId": "O23950576",
+        "is_new": false,
+        "name": "City Centre Fujairah",
+        "email": "",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 9 202 9630",
+        "lat": 25.12561,
+        "lng": 56.302212,
+        "human_location": "Ground Level",
+        "neighborhood": "Fujairah",
+        "neighborhood_url": null,
+        "mall": "City Centre Fujairah",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1895065,
+        "merchant_name": "Pinkberry",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Pinkberry",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338
+        ],
+        "section_identifiers": [
+          "informal_dining_takeaway"
+        ],
+        "max_savings_estimate": 50,
+        "merchant": {
+          "id": 63859,
+          "name": "Pinkberry",
+          "name_for_outlet": "Pinkberry",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": "0",
+          "logo_url": "https://offerengine.theentertainerme.com/pinkberry-dubai-x21112896/merchant_primary_logo_%28retina%29_-_merchant2024061101058.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/pinkberry-dubai-x21112896/merchant_primary_logo_%28non-retina%29_-_merchant2024061101059.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/pinkberry-dubai-x21112896/merchant_profile_%22hero%22_image_%28retina%29202406111111.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/pinkberry-dubai-x21112896/merchant_profile_%22hero%22_image_%28retina%29202406111111.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "Frozen yoghurt"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Frozen yoghurt",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 2105,
+        "sfId": "O045177",
+        "is_new": false,
+        "name": "City Centre Fujairah",
+        "email": "",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 9 223 6467",
+        "lat": 25.125286,
+        "lng": 56.301365,
+        "human_location": "Food Court",
+        "neighborhood": "Fujairah",
+        "neighborhood_url": "https://b2cappscargillcdn.theentertainerme.com/freemium_images/405f7c2284cb38d8a0337f0d3b867448.j",
+        "mall": "City Centre Fujairah",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "13199675",
+        "tripadvisor_rating": 3.5,
+        "google_reviews_count": 0,
+        "google_rating": 4.4,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1895157,
+        "merchant_name": "PizzaExpress",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "PizzaExpress",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338
+        ],
+        "section_identifiers": [
+          "casual_dining_and_cafes",
+          "casual_dining"
+        ],
+        "max_savings_estimate": 60,
+        "merchant": {
+          "id": 1336,
+          "name": "PizzaExpress",
+          "name_for_outlet": "PizzaExpress",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": "0",
+          "logo_url": "https://offerengine.theentertainerme.com/pizzaexpress-dubai-x036526/merchant_primary_logo_%28retina%29_-_merchant202112141342.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/pizzaexpress-dubai-x036526/merchant_primary_logo_%28non-retina%29_-_merchant202112141342.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/pizzaexpress-x036526/merchant_profile_%22hero%22_image_%28retina%292024010021244.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/pizzaexpress-x036526/merchant_profile_%22hero%22_image_%28retina%292024010021244.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "Italian"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Italian",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "$",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 3062,
+        "sfId": "O110122",
+        "is_new": false,
+        "name": "Ras Al Khaimah Mall",
+        "email": "rm.bb.rak@ae.tablez.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7 235 1564",
+        "lat": 25.772417,
+        "lng": 55.960361,
+        "human_location": "Ground Level, Shop No. GR01, Khuzam Road, Al Qurm",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "Ras Al Khaimah Mall",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "4733444",
+        "tripadvisor_rating": 4.0,
+        "google_reviews_count": 0,
+        "google_rating": 4.1,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1896041,
+        "merchant_name": "Bloomsbury's Boutique Cafe & Artisan Bakery",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Bloomsbury's Boutique Cafe & Artisan Bakery",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338
+        ],
+        "section_identifiers": [
+          "casual_dining_and_cafes",
+          "casual_dining"
+        ],
+        "max_savings_estimate": 50,
+        "merchant": {
+          "id": 1966,
+          "name": "Bloomsbury's Boutique Cafe & Artisan Bakery",
+          "name_for_outlet": "Bloomsbury's Boutique Cafe & Artisan Bakery",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": "0",
+          "logo_url": "https://offerengine.theentertainerme.com/bloomsburys---rak-x037576/merchant_primary_logo_%28retina%29_-_merchant202308011151.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/bloomsburys---rak-x037576/merchant_primary_logo_%28non-retina%29_-_merchant202308011151.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/bloomsburys-boutique-cafe--artisan-bakery-x037576/merchant_profile_%22hero%22_image_%28retina%292024010031541.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/bloomsburys-boutique-cafe--artisan-bakery-x037576/merchant_profile_%22hero%22_image_%28retina%292024010031541.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "International"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "International",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "$$",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 98279,
+        "sfId": "O23920649",
+        "is_new": false,
+        "name": "Ras Al Khaimah",
+        "email": "naouar@ntde.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7 244 0511",
+        "lat": 25.770741,
+        "lng": 55.939342,
+        "human_location": "Grove Village, Dafan Al Khor",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1898044,
+        "merchant_name": "Semsom",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Semsom",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338
+        ],
+        "section_identifiers": [
+          "casual_dining_and_cafes",
+          "casual_dining"
+        ],
+        "max_savings_estimate": 55,
+        "merchant": {
+          "id": 41955,
+          "name": "Semsom",
+          "name_for_outlet": "Semsom",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": 0,
+          "logo_url": "https://offerengine.theentertainerme.com/semson-x23880146/merchant_primary_logo_%28retina%29_-_merchant2019060101223.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/semson-x23880146/merchant_primary_logo_%28non-retina%29_-_merchant2019060101223.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/semsom-x23880146/merchant_profile_%22hero%22_image_%28retina%29202407091446.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/semsom-x23880146/merchant_profile_%22hero%22_image_%28retina%29202407091446.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "Lebanese"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Lebanese",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "$$$$",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 92811,
+        "sfId": "O23908639",
+        "is_new": false,
+        "name": "Ras Al Khaimah",
+        "email": "ruzo.ae@gmail.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7 222 9100",
+        "lat": 25.764261,
+        "lng": 55.914124,
+        "human_location": "The View, Ground Level, Flamingo Beach",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "19767212",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1900648,
+        "merchant_name": "Ruzo Restaurant",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Ruzo Restaurant",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338
+        ],
+        "section_identifiers": [
+          "casual_dining_and_cafes",
+          "casual_dining"
+        ],
+        "max_savings_estimate": 50,
+        "merchant": {
+          "id": 53338,
+          "name": "Ruzo Restaurant",
+          "name_for_outlet": "Ruzo Restaurant",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": 0,
+          "logo_url": "https://offerengine.theentertainerme.com/ruzo-restaurant-x23903687/merchant_primary_logo_%28retina%29_-_merchant202101120936.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/ruzo-restaurant-x23903687/merchant_primary_logo_%28non-retina%29_-_merchant202101120936.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/ruzo-restaurant-x23903687/merchant_profile_%22hero%22_image_%28retina%29202412171444.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/ruzo-restaurant-x23903687/merchant_profile_%22hero%22_image_%28retina%29202412171444.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "Japanese"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Japanese",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 21708,
+        "sfId": "O22177344",
+        "is_new": false,
+        "name": "The Cove Rotana Resort",
+        "email": "fb.cove@rotana.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7 206 6333",
+        "lat": 25.737581,
+        "lng": 55.888351,
+        "human_location": "Lobby Level",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "",
+        "hotel": "The Cove Rotana Resort",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 4.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1904209,
+        "merchant_name": "Basilico",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Basilico",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368
+        ],
+        "section_identifiers": [
+          "casual_dining_and_cafes",
+          "casual_dining"
+        ],
+        "max_savings_estimate": 100,
+        "merchant": {
+          "id": 12962,
+          "name": "Basilico",
+          "name_for_outlet": "Basilico",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": 0,
+          "logo_url": "https://offerengine.theentertainerme.com/basilico-x22131475/merchant_primary_logo_%28retina%29_-_merchant.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/basilico-x22131475/merchant_primary_logo_%28non-retina%29_-_merchant.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/basilico-x22131475/merchant_profile_%22hero%22_image_%28retina%292024010171109.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/basilico-x22131475/merchant_profile_%22hero%22_image_%28retina%292024010171109.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "Mediterranean"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Mediterranean",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 97098,
+        "sfId": "O23916881",
+        "is_new": false,
+        "name": "The Cove Rotana Resort",
+        "email": "cinnamon.cove@thecoverak.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7 206 6350",
+        "lat": 25.736683,
+        "lng": 55.887161,
+        "human_location": "Al Dhait South",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "",
+        "hotel": "The Cove Rotana Resort",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1904358,
+        "merchant_name": "Cinnamon - Ras Al Khaimah",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Cinnamon - Ras Al Khaimah",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368
+        ],
+        "section_identifiers": [
+          "casual_dining_and_cafes",
+          "casual_dining"
+        ],
+        "max_savings_estimate": 145,
+        "merchant": {
+          "id": 55256,
+          "name": "Cinnamon - Ras Al Khaimah",
+          "name_for_outlet": "Cinnamon - Ras Al Khaimah",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": 0,
+          "logo_url": "https://offerengine.theentertainerme.com/cinnamon---ras-al-khaimah-x23911901/merchant_primary_logo_%28retina%29_-_merchant2021092601054.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/cinnamon---ras-al-khaimah-x23911901/merchant_primary_logo_%28non-retina%29_-_merchant2021092601054.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/cinnamon---ras-al-khaimah-x23911901/merchant_profile_%22hero%22_image_%28retina%292024010091108.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/cinnamon---ras-al-khaimah-x23911901/merchant_profile_%22hero%22_image_%28retina%292024010091108.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "International"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "International",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "$$$$",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 93481,
+        "sfId": "O23909682",
+        "is_new": false,
+        "name": "Jannah Resort & Villas Ras Al Khaimah",
+        "email": "sahararak@jannah-hotels.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7 203 7203",
+        "lat": 25.714979,
+        "lng": 55.837536,
+        "human_location": "Ground Level, Mina Al Arab Promenade View",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "",
+        "hotel": "Jannah Resort & Villas Ras Al Khaimah",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1909885,
+        "merchant_name": "Sahara Cafe",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Sahara Cafe",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338
+        ],
+        "section_identifiers": [
+          "casual_dining_and_cafes",
+          "casual_dining"
+        ],
+        "max_savings_estimate": 50,
+        "merchant": {
+          "id": 53580,
+          "name": "Sahara Cafe",
+          "name_for_outlet": "Sahara Cafe",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": 0,
+          "logo_url": "https://offerengine.theentertainerme.com/sahara-cafe-x23904710/merchant_primary_logo_%28retina%29_-_merchant202102080937.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/sahara-cafe-x23904710/merchant_primary_logo_%28non-retina%29_-_merchant202102080937.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/sahara-cafe-x23904710/merchant_profile_%22hero%22_image_%28retina%29202412091126.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/sahara-cafe-x23904710/merchant_profile_%22hero%22_image_%28retina%29202412091126.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "Middle Eastern"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Middle Eastern",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 117369,
+        "sfId": "O23946362",
+        "is_new": false,
+        "name": "Al Hamra Mall",
+        "email": "info@littlebangkok.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "800 226 4565",
+        "lat": 25.684261,
+        "lng": 55.784023,
+        "human_location": "Ground Level, Food Hall",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "Al Hamra Mall",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1916175,
+        "merchant_name": "Little Bangkok Thai Restaurant",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Little Bangkok Thai Restaurant",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338,
+          53378
+        ],
+        "section_identifiers": [
+          "casual_dining_and_cafes",
+          "casual_dining"
+        ],
+        "max_savings_estimate": 60,
+        "merchant": {
+          "id": 18436,
+          "name": "Little Bangkok Thai Restaurant",
+          "name_for_outlet": "Little Bangkok Thai Restaurant",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": "0",
+          "logo_url": "https://offerengine.theentertainerme.com/little-bangkok-x22588667/merchant_primary_logo_%28retina%29_-_merchant.png",
+          "logo_small_url": "https://offerengine.theentertainerme.com/little-bangkok-x22588667/merchant_primary_logo_%28non-retina%29_-_merchant.png",
+          "photo_url": "https://offerengine.theentertainerme.com/little-bangkok-thai-restaurant-x22588667/merchant_profile_%22hero%22_image_%28retina%29202409121251.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/little-bangkok-thai-restaurant-x22588667/merchant_profile_%22hero%22_image_%28retina%29202409121251.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "Thai"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Thai",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "$",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 122123,
+        "sfId": "O23955003",
+        "is_new": true,
+        "name": "Al Hamra Mall",
+        "email": "allobeirutalhamramall@apparelgroup.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 52 607 8633",
+        "lat": 25.682949,
+        "lng": 55.782166,
+        "human_location": "Ground Level",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "Al Hamra Mall",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1916405,
+        "merchant_name": "Allo Beirut",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Allo Beirut",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368
+        ],
+        "section_identifiers": [
+          "casual_dining_and_cafes",
+          "casual_dining"
+        ],
+        "max_savings_estimate": 30,
+        "merchant": {
+          "id": 65667,
+          "name": "Allo Beirut",
+          "name_for_outlet": "Allo Beirut",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": "0",
+          "logo_url": "https://offerengine.theentertainerme.com/allo-beirut-x23947970/merchant_primary_logo_%28retina%29_-_merchant2025010701051.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/allo-beirut-x23947970/merchant_primary_logo_%28non-retina%29_-_merchant2025010701051.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/allo-beirut-x23947970/merchant_profile_%22hero%22_image_%28retina%292025010701051.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/allo-beirut-x23947970/merchant_profile_%22hero%22_image_%28retina%292025010701051.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "Lebanese"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Lebanese",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 118098,
+        "sfId": "O23947781",
+        "is_new": false,
+        "name": "Al Hamra Mall",
+        "email": "info@kidzfactory-uae.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 52 978 5982",
+        "lat": 25.683065,
+        "lng": 55.781807,
+        "human_location": "1st Level, Near VOX Cinemas",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "Al Hamra Mall",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1916432,
+        "merchant_name": "Kidz Factory - RAK",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Kidz Factory - RAK",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "AL",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338
+        ],
+        "section_identifiers": [
+          "sports_leisure"
+        ],
+        "max_savings_estimate": 999,
+        "merchant": {
+          "id": 63213,
+          "name": "Kidz Factory - RAK",
+          "name_for_outlet": "Kidz Factory - RAK",
+          "category": "Leisure",
+          "ad_travel_country": "",
+          "ad_active_status": 0,
+          "logo_url": "https://offerengine.theentertainerme.com/kidz-factory---rak-x23943282/merchant_primary_logo_%28retina%29_-_merchant202402131734.png",
+          "logo_small_url": "https://offerengine.theentertainerme.com/kidz-factory---rak-x23943282/merchant_primary_logo_%28non-retina%29_-_merchant202402131734.png",
+          "photo_url": "https://offerengine.theentertainerme.com/kidz-factory---rak-x23943282/merchant_profile_%22hero%22_image_%28retina%292024010221958.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/kidz-factory---rak-x23943282/merchant_profile_%22hero%22_image_%28retina%292024010221958.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "International"
+          ],
+          "categories": [
+            "Leisure"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "International",
+              "color": "4F99D2"
+            },
+            {
+              "title": "Attractions & Leisure",
+              "color": "88C867"
+            }
+          ],
+          "price_range_text": "",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 1222,
+        "sfId": "O042941",
+        "is_new": false,
+        "name": "Ras Al Khaimah",
+        "email": "golfdesk@alhamragolf.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7 244 7474",
+        "lat": 25.689848,
+        "lng": 55.777237,
+        "human_location": "Al Hamra Village",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "",
+        "hotel": "",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9796556",
+        "tripadvisor_rating": 4.0,
+        "google_reviews_count": 0,
+        "google_rating": 4.3,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1916546,
+        "merchant_name": "Al Hamra Golf Club",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Al Hamra Golf Club",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "AL",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368
+        ],
+        "section_identifiers": [
+          "sports_leisure"
+        ],
+        "max_savings_estimate": 365,
+        "merchant": {
+          "id": 805,
+          "name": "Al Hamra Golf Club",
+          "name_for_outlet": "Al Hamra Golf Club",
+          "category": "Leisure",
+          "ad_travel_country": "",
+          "ad_active_status": "0",
+          "logo_url": "https://offerengine.theentertainerme.com/al-hamra-golf-club-x035397/merchant_primary_logo_%28retina%29_-_merchant.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/al-hamra-golf-club-x035397/merchant_primary_logo_%28non-retina%29_-_merchant.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/al-hamra-golf-club-x035397/merchant_profile_%22hero%22_image_%28retina%292024010161629.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/al-hamra-golf-club-x035397/merchant_profile_%22hero%22_image_%28retina%292024010161629.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            
+          ],
+          "categories": [
+            "Leisure"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Attractions & Leisure",
+              "color": "88C867"
+            }
+          ],
+          "price_range_text": "$$$",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 120313,
+        "sfId": "O23951256",
+        "is_new": false,
+        "name": "Sofitel Al Hamra Beach Resort",
+        "email": "hb9f8-re@sofitel.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7 209 6000",
+        "lat": 25.69058,
+        "lng": 55.776276,
+        "human_location": "Ground Level",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "",
+        "hotel": "Sofitel Al Hamra Beach Resort",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1916602,
+        "merchant_name": "Veritas",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Veritas",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53338,
+          53372
+        ],
+        "section_identifiers": [
+          
+        ],
+        "max_savings_estimate": 100,
+        "merchant": {
+          "id": 64530,
+          "name": "Veritas",
+          "name_for_outlet": "Veritas",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": "0",
+          "logo_url": "https://offerengine.theentertainerme.com/veritas-x23946126/merchant_primary_logo_%28retina%29_-_merchant202407251509.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/veritas-x23946126/merchant_primary_logo_%28non-retina%29_-_merchant202407251509.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/veritas-x23946126/merchant_profile_%22hero%22_image_%28retina%29202407251509.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/veritas-x23946126/merchant_profile_%22hero%22_image_%28retina%29202407251509.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "Italian"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "Italian",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "$$$$",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 120316,
+        "sfId": "O23951259",
+        "is_new": false,
+        "name": "Sofitel Al Hamra Beach Resort",
+        "email": "",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7 209 6000",
+        "lat": 25.6901,
+        "lng": 55.776192,
+        "human_location": "Ground Level",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "",
+        "hotel": "Sofitel Al Hamra Beach Resort",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1916631,
+        "merchant_name": "Citron",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Citron",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338
+        ],
+        "section_identifiers": [
+          "casual_dining_and_cafes",
+          "casual_dining"
+        ],
+        "max_savings_estimate": 45,
+        "merchant": {
+          "id": 64528,
+          "name": "Citron",
+          "name_for_outlet": "Citron",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": "0",
+          "logo_url": "https://offerengine.theentertainerme.com/citron-x23946124/merchant_primary_logo_%28retina%29_-_merchant202407251552.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/citron-x23946124/merchant_primary_logo_%28non-retina%29_-_merchant202407251552.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/citron-x23946124/merchant_profile_%22hero%22_image_%28retina%29202407251553.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/citron-x23946124/merchant_profile_%22hero%22_image_%28retina%29202407251553.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "French"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "French",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 120314,
+        "sfId": "O23951257",
+        "is_new": true,
+        "name": "Sofitel Al Hamra Beach Resort",
+        "email": "",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7 209 6000",
+        "lat": 25.690111,
+        "lng": 55.775646,
+        "human_location": "Ground Level",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "",
+        "hotel": "Sofitel Al Hamra Beach Resort",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1916681,
+        "merchant_name": "East",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "East",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368,
+          53338
+        ],
+        "section_identifiers": [
+          "premium_dining"
+        ],
+        "max_savings_estimate": 95,
+        "merchant": {
+          "id": 64527,
+          "name": "East",
+          "name_for_outlet": "East",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": "0",
+          "logo_url": "https://offerengine.theentertainerme.com/east-x23946125/merchant_primary_logo_%28retina%29_-_merchant202407261105.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/east-x23946125/merchant_primary_logo_%28non-retina%29_-_merchant202407261105.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/east-x23946125/merchant_profile_%22hero%22_image_%28retina%29202407261105.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/east-x23946125/merchant_profile_%22hero%22_image_%28retina%29202407261105.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "International"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "International",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "$$$$",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 121549,
+        "sfId": "O23953912",
+        "is_new": false,
+        "name": "Sofitel Al Hamra Beach Resort",
+        "email": "",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7209 6000",
+        "lat": 25.6901,
+        "lng": 55.774448,
+        "human_location": "Ground Level",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "",
+        "hotel": "Sofitel Al Hamra Beach Resort",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1916791,
+        "merchant_name": "Reunion Brasserie",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Reunion Brasserie",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368
+        ],
+        "section_identifiers": [
+          "premium_dining"
+        ],
+        "max_savings_estimate": 130,
+        "merchant": {
+          "id": 65247,
+          "name": "Reunion Brasserie",
+          "name_for_outlet": "Reunion Brasserie",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": "0",
+          "logo_url": "https://offerengine.theentertainerme.com/reunion-brasserie-x23949347/merchant_primary_logo_%28retina%29_-_merchant2024010291126.jpg",
+          "logo_small_url": "https://offerengine.theentertainerme.com/reunion-brasserie-x23949347/merchant_primary_logo_%28non-retina%29_-_merchant2024010291126.jpg",
+          "photo_url": "https://offerengine.theentertainerme.com/reunion-brasserie-x23949347/merchant_profile_%22hero%22_image_%28retina%292024010291126.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/reunion-brasserie-x23949347/merchant_profile_%22hero%22_image_%28retina%292024010291126.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "French"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "French",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "$$$$$",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      },
+      {
+        "id": 67116,
+        "sfId": "O23879172",
+        "is_new": false,
+        "name": "Pullman Resort Al Marjan Island",
+        "email": "dine.marjanislandresort@accor.com",
+        "delivery_only_tag": 0,
+        "outlet_location_id": 1,
+        "telephone": "+971 7 203 6605",
+        "lat": 25.682329,
+        "lng": 55.746422,
+        "human_location": "Ground Level, Facing Hotel Entrance",
+        "neighborhood": "Ras Al Khaimah",
+        "neighborhood_url": null,
+        "mall": "",
+        "hotel": "Pullman Resort Al Marjan Island",
+        "cashless_delivery_enabled": 0,
+        "score": 100,
+        "tripadvisor_id": "9999",
+        "tripadvisor_rating": 0,
+        "google_reviews_count": 0,
+        "google_rating": 0.0,
+        "table_reservation_enabled": 0,
+        "take_away_enabled": 0,
+        "distance": 1919712,
+        "merchant_name": "Al Liwan",
+        "fuzzy_relevance": 100,
+        "description": "",
+        "merchant_description": "",
+        "name_for_outlet": "Al Liwan",
+        "is_epc": 0,
+        "epc_status": "Unavailable",
+        "terms_and_conditions": "",
+        "tags": [
+          {
+            "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+            "title": "Buy one get one free",
+            "abbreviated_text": "B1G1",
+            "uid": "custom_types_buy_one_get_one_free",
+            "bg_color": "EAF3FF",
+            "title_color": "595959",
+            "order_id": 2,
+            "identifier": "buy_one_get_one_free"
+          }
+        ],
+        "tag_relevance": 0,
+        "product_sku": [
+          
+        ],
+        "logical_products": [
+          {
+            "name": "ENTERTAINER Dubai 2025",
+            "slug": "dubai-2025",
+            "location_id": 1,
+            "id": 60131,
+            "font_color": "#0C60C8",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "dubai-gcc-2025",
+            "location_id": 1,
+            "id": 60132,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "abu-dhabi-gcc-2025",
+            "location_id": 2,
+            "id": 60136,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "bahrain-gcc-2025",
+            "location_id": 3,
+            "id": 60141,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "kuwait-gcc-2025",
+            "location_id": 7,
+            "id": 60145,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "oman-gcc-2025",
+            "location_id": 8,
+            "id": 60143,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "qatar-gcc-2025",
+            "location_id": 9,
+            "id": 60139,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "riyadh-entertainer-gcc-2025",
+            "location_id": 10,
+            "id": 60182,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "jeddah-entertainer-gcc-2025",
+            "location_id": 18,
+            "id": 60181,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          },
+          {
+            "name": "ENTERTAINER GCC 2025",
+            "slug": "ep-entertainer-gcc-2025",
+            "location_id": 49,
+            "id": 60180,
+            "font_color": "#B1985C",
+            "border_color": "ffffff",
+            "background_color": "ffffff"
+          }
+        ],
+        "merchant_categories_analytics": "FD",
+        "home_screen_section_ids": [
+          
+        ],
+        "home_screen_section_data": [
+          
+        ],
+        "product_ids": [
+          53368
+        ],
+        "section_identifiers": [
+          "casual_dining_and_cafes",
+          "casual_dining"
+        ],
+        "max_savings_estimate": 145,
+        "merchant": {
+          "id": 38176,
+          "name": "Al Liwan",
+          "name_for_outlet": "Al Liwan",
+          "category": "Restaurants and Bars",
+          "ad_travel_country": "",
+          "ad_active_status": 0,
+          "logo_url": "https://offerengine.theentertainerme.com/liwan-marjan-x23872073/merchant_primary_logo_%28retina%29_-_merchant.png",
+          "logo_small_url": "https://offerengine.theentertainerme.com/liwan-marjan-x23872073/merchant_primary_logo_%28non-retina%29_-_merchant.png",
+          "photo_url": "https://offerengine.theentertainerme.com/liwan-marjan-x23872073/merchant_profile_%22hero%22_image_%28retina%29202405171658.jpg",
+          "photo_small_url": "https://offerengine.theentertainerme.com/liwan-marjan-x23872073/merchant_profile_%22hero%22_image_%28retina%29202405171658.jpg",
+          "cuisine": "",
+          "digital_section": "",
+          "cuisines": [
+            "International"
+          ],
+          "categories": [
+            "Restaurants and Bars"
+          ],
+          "cuisines_sub_categories": [
+            {
+              "title": "International",
+              "color": "4F99D2"
+            }
+          ],
+          "price_range_text": "",
+          "listing_logo": ""
+        },
+        "is_delivery": false,
+        "is_featured": false,
+        "api_params": {
+          "show_monthly_product": true
+        }
+      }
+    ],
+    "total_outlets_count": 2896,
+    "total_records": 1236,
+    "show_delivery_purchase_view": false,
+    "records_in_current_page": 30,
+    "offset": 30,
+    "page_size": 30,
+    "map_zoom_level": 12.5
+  },
+  "message": "success",
+  "success": true,
+  "cmd": "/et_rs_prd/web/v801/es_outlets?",
+  "http_response": 200,
+  "code": 0
+}
