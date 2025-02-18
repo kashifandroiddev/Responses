@@ -1,0 +1,43 @@
+{
+  "data": {
+    "profile": {
+      "profile_links": [
+        {
+          "web_url": "entertainer://redemptionhistory",
+          "image_url": "https://b2cappassetscdn.theentertainerme.com/mega/profile_images/profile_redemptions.png",
+          "title": "Redemptions",
+          "type": "redemptions"
+        },
+        {
+          "web_url": "entertainer://orderhistory",
+          "image_url": "https://b2cappassetscdn.theentertainerme.com/mega/profile_images/profile_orders.png",
+          "title": "Orders",
+          "type": "orders"
+        },
+        {
+          "web_url": "entertainer://purchasehistory?ref_app=true",
+          "image_url": "https://b2cappassetscdn.theentertainerme.com/mega/profile_images/profile_product_history.png",
+          "title": "Products",
+          "type": "products"
+        },
+        {
+          "web_url": "entertainer://wallet",
+          "image_url": "https://b2cappassetscdn.theentertainerme.com/mega/profile_images/profile_wallet.png",
+          "title": "Wallet",
+          "type": "wallet"
+        },
+        {
+          "web_url": "entertainer://pings",
+          "image_url": "https://b2cappassetscdn.theentertainerme.com/mega/profile_images/profile_pings.png",
+          "title": "Pings",
+          "type": "pings"
+        }
+      ]
+    }
+  },
+  "message": "",
+  "success": true,
+  "cmd": "/et_rs_prd/web/v801/updated_profile_settings?",
+  "http_response": 200,
+  "code": 0
+}
