@@ -1,0 +1,578 @@
+{
+  "status": true,
+  "data": {
+    "results": [
+      {
+        "section_title": "",
+        "section_identifier": "general_section",
+        "details": [
+          {
+            "title": "Pizza",
+            "sub_title": "Cuisines",
+            "image_url": "https://s3-us-west-2.amazonaws.com/ent-search-results/cuisine.png",
+            "image_url_selected": "https://s3.amazonaws.com/entertainer-app-assets/icons/cuisines/selected/pizza.png",
+            "item_type": "cuisines",
+            "api_params": {
+              "sub_category_cuisine_attribute_ids": [
+                "cuisines_4_25"
+              ]
+            },
+            "index_type": "cuisines"
+          },
+          {
+            "title": "Pizza",
+            "sub_title": "Offer Attributes",
+            "image_url": null,
+            "image_url_selected": null,
+            "item_type": "offer_attributes",
+            "api_params": {
+              "sub_category_cuisine_attribute_ids": [
+                "attributes_4_754"
+              ]
+            },
+            "index_type": "offer_attributes"
+          }
+        ]
+      },
+      {
+        "section_title": "",
+        "section_identifier": "outlets",
+        "details": [
+          {
+            "title": "Pizzolo",
+            "sub_title": "Hyatt Regency Dubai",
+            "image_url": "https://offerengine.theentertainerme.com/pizzolo-x23900457/merchant_primary_logo_%28retina%29_-_merchant202011231304.jpg",
+            "image_url_selected": "https://offerengine.theentertainerme.com/pizzolo-x23900457/merchant_primary_logo_%28retina%29_-_merchant202011231304.jpg",
+            "outlet_id": 91991,
+            "delivery_only_tag": 0,
+            "take_away_enabled": 0,
+            "merchant_id": 52443,
+            "merchant_category": "Restaurants and Bars",
+            "merchant_tags": [
+              {
+                "uid": "custom_types_buy_one_get_one_free",
+                "bg_color": "EAF3FF",
+                "identifier": "buy_one_get_one_free",
+                "abbreviated_text": "B1G1",
+                "title_color": "595959",
+                "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+                "title": "Buy one get one free",
+                "order_id": 2
+              }
+            ],
+            "sub_category_cuisine_attribute_ids": [
+              "sub_categories_4_69",
+              "attributes_4_704",
+              "attributes_4_748",
+              "cuisines_4_17",
+              "attributes_4_54",
+              "attributes_4_710",
+              "casual_dining_and_cafes_sub_categories_4_69",
+              "attributes_4_96"
+            ],
+            "in_active": false,
+            "remaining_outlet_count": 0,
+            "api_params": {
+              "outlet_id": 91991,
+              "merchant_id": 52443
+            },
+            "es_outlets_api_params": {
+              "m_ids": [
+                52443
+              ]
+            },
+            "distance": "1978km",
+            "distance_in_meters": 1978471.795854344,
+            "outlet_location_id": 1
+          },
+          {
+            "title": "Pizza Luv",
+            "sub_title": "Al Mizhar",
+            "image_url": "https://offerengine.theentertainerme.com/pizza-luv-x23914838/merchant_primary_logo_%28retina%29_-_merchant202407261200.jpg",
+            "image_url_selected": "https://offerengine.theentertainerme.com/pizza-luv-x23914838/merchant_primary_logo_%28retina%29_-_merchant202407261200.jpg",
+            "outlet_id": 105733,
+            "delivery_only_tag": 1,
+            "take_away_enabled": 0,
+            "merchant_id": 55968,
+            "merchant_category": "Restaurants and Bars",
+            "merchant_tags": [
+              {
+                "uid": "custom_types_buy_one_get_one_free",
+                "bg_color": "EAF3FF",
+                "identifier": "buy_one_get_one_free",
+                "abbreviated_text": "",
+                "title_color": "595959",
+                "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+                "title": "",
+                "order_id": 2
+              },
+              {
+                "uid": "custom_types_delivery_only",
+                "bg_color": "F1F1F1",
+                "identifier": "delivery_only",
+                "abbreviated_text": "",
+                "title_color": "484848",
+                "icon": "https://b2cappassetscdn.theentertainerme.com/mega/icons/delivery.png",
+                "title": "Delivery only",
+                "order_id": 4
+              }
+            ],
+            "sub_category_cuisine_attribute_ids": [
+              "sub_categories_4_78",
+              "attributes_4_393",
+              "attributes_4_748",
+              "informal_dining_takeaway_sub_categories_4_78",
+              "attributes_4_54",
+              "attributes_4_102",
+              "cuisines_4_17",
+              "attributes_4_704"
+            ],
+            "in_active": false,
+            "remaining_outlet_count": 7,
+            "api_params": {
+              "outlet_id": 105733,
+              "merchant_id": 55968
+            },
+            "es_outlets_api_params": {
+              "m_ids": [
+                55968
+              ]
+            },
+            "distance": "1966km",
+            "distance_in_meters": 1966306.6283076135,
+            "outlet_location_id": 1
+          },
+          {
+            "title": "Pizza 2 Go",
+            "sub_title": "Al Karama",
+            "image_url": "https://offerengine.theentertainerme.com/pizza-2-go-x122645/merchant_primary_logo_%28retina%29_-_merchant.png",
+            "image_url_selected": "https://offerengine.theentertainerme.com/pizza-2-go-x122645/merchant_primary_logo_%28retina%29_-_merchant.png",
+            "outlet_id": 1483,
+            "delivery_only_tag": 1,
+            "take_away_enabled": 0,
+            "merchant_id": 949,
+            "merchant_category": "Restaurants and Bars",
+            "merchant_tags": [
+              {
+                "uid": "custom_types_buy_one_get_one_free",
+                "bg_color": "EAF3FF",
+                "identifier": "buy_one_get_one_free",
+                "abbreviated_text": "",
+                "title_color": "595959",
+                "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+                "title": "",
+                "order_id": 2
+              },
+              {
+                "uid": "custom_types_delivery_only",
+                "bg_color": "F1F1F1",
+                "identifier": "delivery_only",
+                "abbreviated_text": "",
+                "title_color": "484848",
+                "icon": "https://b2cappassetscdn.theentertainerme.com/mega/icons/delivery.png",
+                "title": "Delivery only",
+                "order_id": 4
+              }
+            ],
+            "sub_category_cuisine_attribute_ids": [
+              "attributes_4_42",
+              "attributes_4_754",
+              "attributes_4_704",
+              "attributes_4_393",
+              "sub_categories_4_78",
+              "cuisines_4_17",
+              "attributes_4_54",
+              "attributes_4_102",
+              "attributes_4_57",
+              "informal_dining_takeaway_attributes_4_96",
+              "attributes_4_72",
+              "informal_dining_takeaway_sub_categories_4_78",
+              "attributes_4_105",
+              "attributes_4_96"
+            ],
+            "in_active": false,
+            "remaining_outlet_count": 0,
+            "api_params": {
+              "outlet_id": 1483,
+              "merchant_id": 949
+            },
+            "es_outlets_api_params": {
+              "m_ids": [
+                949
+              ]
+            },
+            "distance": "1980km",
+            "distance_in_meters": 1980052.3031141064,
+            "outlet_location_id": 1
+          },
+          {
+            "title": "800 Pizza",
+            "sub_title": "The Sustainable City",
+            "image_url": "https://offerengine.theentertainerme.com/800-pizza-x23901462/merchant_primary_logo_%28retina%29_-_merchant202112161243.jpg",
+            "image_url_selected": "https://offerengine.theentertainerme.com/800-pizza-x23901462/merchant_primary_logo_%28retina%29_-_merchant202112161243.jpg",
+            "outlet_id": 97976,
+            "delivery_only_tag": 0,
+            "take_away_enabled": 0,
+            "merchant_id": 52690,
+            "merchant_category": "Restaurants and Bars",
+            "merchant_tags": [
+              {
+                "uid": "custom_types_buy_one_get_one_free",
+                "bg_color": "EAF3FF",
+                "identifier": "buy_one_get_one_free",
+                "abbreviated_text": "B1G1",
+                "title_color": "595959",
+                "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+                "title": "Buy one get one free",
+                "order_id": 2
+              }
+            ],
+            "sub_category_cuisine_attribute_ids": [
+              "attributes_4_102",
+              "casual_dining_and_cafes_sub_categories_4_69",
+              "attributes_4_710",
+              "attributes_4_748",
+              "attributes_4_54",
+              "sub_categories_4_69",
+              "cuisines_4_17",
+              "attributes_4_704"
+            ],
+            "in_active": false,
+            "remaining_outlet_count": 0,
+            "api_params": {
+              "outlet_id": 97976,
+              "merchant_id": 52690
+            },
+            "es_outlets_api_params": {
+              "m_ids": [
+                52690
+              ]
+            },
+            "distance": "1993km",
+            "distance_in_meters": 1993008.2216187955,
+            "outlet_location_id": 1
+          },
+          {
+            "title": "Pizza Bros",
+            "sub_title": "Sharjah",
+            "image_url": "https://offerengine.theentertainerme.com/pizza-bros-x23899374/merchant_primary_logo_%28retina%29_-_merchant202303231213.jpg",
+            "image_url_selected": "https://offerengine.theentertainerme.com/pizza-bros-x23899374/merchant_primary_logo_%28retina%29_-_merchant202303231213.jpg",
+            "outlet_id": 97595,
+            "delivery_only_tag": 1,
+            "take_away_enabled": 0,
+            "merchant_id": 51904,
+            "merchant_category": "Restaurants and Bars",
+            "merchant_tags": [
+              {
+                "uid": "custom_types_buy_one_get_one_free",
+                "bg_color": "EAF3FF",
+                "identifier": "buy_one_get_one_free",
+                "abbreviated_text": "",
+                "title_color": "595959",
+                "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+                "title": "",
+                "order_id": 2
+              },
+              {
+                "uid": "custom_types_delivery_only",
+                "bg_color": "F1F1F1",
+                "identifier": "delivery_only",
+                "abbreviated_text": "",
+                "title_color": "484848",
+                "icon": "https://b2cappassetscdn.theentertainerme.com/mega/icons/delivery.png",
+                "title": "Delivery only",
+                "order_id": 4
+              }
+            ],
+            "sub_category_cuisine_attribute_ids": [
+              "attributes_4_558",
+              "attributes_4_704",
+              "attributes_4_393",
+              "sub_categories_4_78",
+              "cuisines_4_17",
+              "attributes_4_54",
+              "attributes_4_102",
+              "attributes_4_710",
+              "informal_dining_takeaway_sub_categories_4_78"
+            ],
+            "in_active": false,
+            "remaining_outlet_count": 8,
+            "api_params": {
+              "outlet_id": 97595,
+              "merchant_id": 51904
+            },
+            "es_outlets_api_params": {
+              "m_ids": [
+                51904
+              ]
+            },
+            "distance": "1963km",
+            "distance_in_meters": 1963139.1586343744,
+            "outlet_location_id": 1
+          },
+          {
+            "title": "Dodo Pizza",
+            "sub_title": "Al Nahda",
+            "image_url": "https://offerengine.theentertainerme.com/dodo-pizza-x23945087/merchant_primary_logo_%28retina%29_-_merchant202406280906.jpg",
+            "image_url_selected": "https://offerengine.theentertainerme.com/dodo-pizza-x23945087/merchant_primary_logo_%28retina%29_-_merchant202406280906.jpg",
+            "outlet_id": 119309,
+            "delivery_only_tag": 0,
+            "take_away_enabled": 0,
+            "merchant_id": 63841,
+            "merchant_category": "Restaurants and Bars",
+            "merchant_tags": [
+              {
+                "uid": "custom_types_buy_one_get_one_free",
+                "bg_color": "EAF3FF",
+                "identifier": "buy_one_get_one_free",
+                "abbreviated_text": "B1G1",
+                "title_color": "595959",
+                "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+                "title": "Buy one get one free",
+                "order_id": 2
+              }
+            ],
+            "sub_category_cuisine_attribute_ids": [
+              "casual_dining_and_cafes_sub_categories_4_69",
+              "attributes_4_710",
+              "attributes_4_57",
+              "attributes_4_54",
+              "attributes_4_72",
+              "sub_categories_4_69",
+              "attributes_4_754",
+              "cuisines_4_17",
+              "attributes_4_102"
+            ],
+            "in_active": false,
+            "remaining_outlet_count": 9,
+            "api_params": {
+              "outlet_id": 119309,
+              "merchant_id": 63841
+            },
+            "es_outlets_api_params": {
+              "m_ids": [
+                63841
+              ]
+            },
+            "distance": "1971km",
+            "distance_in_meters": 1970871.600347794,
+            "outlet_location_id": 1
+          },
+          {
+            "title": "Capo's Pizza",
+            "sub_title": "Sheikh Zayed Road",
+            "image_url": "https://offerengine.theentertainerme.com/capos-pizza-x23946265/merchant_primary_logo_%28retina%29_-_merchant202407151249.jpg",
+            "image_url_selected": "https://offerengine.theentertainerme.com/capos-pizza-x23946265/merchant_primary_logo_%28retina%29_-_merchant202407151249.jpg",
+            "outlet_id": 120059,
+            "delivery_only_tag": 0,
+            "take_away_enabled": 0,
+            "merchant_id": 64459,
+            "merchant_category": "Restaurants and Bars",
+            "merchant_tags": [
+              {
+                "uid": "custom_types_buy_one_get_one_free",
+                "bg_color": "EAF3FF",
+                "identifier": "buy_one_get_one_free",
+                "abbreviated_text": "B1G1",
+                "title_color": "595959",
+                "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+                "title": "Buy one get one free",
+                "order_id": 2
+              }
+            ],
+            "sub_category_cuisine_attribute_ids": [
+              "sub_categories_4_69",
+              "attributes_4_754",
+              "attributes_4_393",
+              "attributes_4_748",
+              "cuisines_4_17",
+              "attributes_4_102",
+              "attributes_4_710",
+              "casual_dining_and_cafes_sub_categories_4_69"
+            ],
+            "in_active": false,
+            "remaining_outlet_count": 0,
+            "api_params": {
+              "outlet_id": 120059,
+              "merchant_id": 64459
+            },
+            "es_outlets_api_params": {
+              "m_ids": [
+                64459
+              ]
+            },
+            "distance": "1988km",
+            "distance_in_meters": 1987590.9888030265,
+            "outlet_location_id": 1
+          },
+          {
+            "title": "PizzaExpress",
+            "sub_title": "City Centre Fujairah",
+            "image_url": "https://offerengine.theentertainerme.com/pizzaexpress-dubai-x036526/merchant_primary_logo_%28retina%29_-_merchant202112141342.jpg",
+            "image_url_selected": "https://offerengine.theentertainerme.com/pizzaexpress-dubai-x036526/merchant_primary_logo_%28retina%29_-_merchant202112141342.jpg",
+            "outlet_id": 2105,
+            "delivery_only_tag": 0,
+            "take_away_enabled": 0,
+            "merchant_id": 1336,
+            "merchant_category": "Restaurants and Bars",
+            "merchant_tags": [
+              {
+                "uid": "custom_types_buy_one_get_one_free",
+                "bg_color": "EAF3FF",
+                "identifier": "buy_one_get_one_free",
+                "abbreviated_text": "B1G1",
+                "title_color": "595959",
+                "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+                "title": "Buy one get one free",
+                "order_id": 2
+              }
+            ],
+            "sub_category_cuisine_attribute_ids": [
+              "casual_dining_and_cafes_sub_categories_4_69",
+              "attributes_4_96",
+              "attributes_4_710",
+              "attributes_4_561",
+              "attributes_4_57",
+              "attributes_4_767",
+              "attributes_4_69",
+              "attributes_4_42",
+              "attributes_4_54",
+              "attributes_4_706",
+              "sub_categories_4_69",
+              "attributes_4_105",
+              "cuisines_4_17",
+              "attributes_4_102"
+            ],
+            "in_active": false,
+            "remaining_outlet_count": 5,
+            "api_params": {
+              "outlet_id": 2105,
+              "merchant_id": 1336
+            },
+            "es_outlets_api_params": {
+              "m_ids": [
+                1336
+              ]
+            },
+            "distance": "1895km",
+            "distance_in_meters": 1895159.4006356231,
+            "outlet_location_id": 1
+          },
+          {
+            "title": "Society Pizza",
+            "sub_title": "Aswaaq Mall",
+            "image_url": "https://offerengine.theentertainerme.com/society-pizza-x23925288/merchant_primary_logo_%28retina%29_-_merchant202209061444.jpg",
+            "image_url_selected": "https://offerengine.theentertainerme.com/society-pizza-x23925288/merchant_primary_logo_%28retina%29_-_merchant202209061444.jpg",
+            "outlet_id": 107196,
+            "delivery_only_tag": 1,
+            "take_away_enabled": 0,
+            "merchant_id": 58102,
+            "merchant_category": "Restaurants and Bars",
+            "merchant_tags": [
+              {
+                "uid": "custom_types_buy_one_get_one_free",
+                "bg_color": "EAF3FF",
+                "identifier": "buy_one_get_one_free",
+                "abbreviated_text": "",
+                "title_color": "595959",
+                "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+                "title": "",
+                "order_id": 2
+              },
+              {
+                "uid": "custom_types_delivery_only",
+                "bg_color": "F1F1F1",
+                "identifier": "delivery_only",
+                "abbreviated_text": "",
+                "title_color": "484848",
+                "icon": "https://b2cappassetscdn.theentertainerme.com/mega/icons/delivery.png",
+                "title": "Delivery only",
+                "order_id": 4
+              }
+            ],
+            "sub_category_cuisine_attribute_ids": [
+              "sub_categories_4_78",
+              "attributes_4_393",
+              "attributes_4_748",
+              "informal_dining_takeaway_sub_categories_4_78",
+              "attributes_4_54",
+              "cuisines_4_17",
+              "attributes_4_102"
+            ],
+            "in_active": false,
+            "remaining_outlet_count": 10,
+            "api_params": {
+              "outlet_id": 107196,
+              "merchant_id": 58102
+            },
+            "es_outlets_api_params": {
+              "m_ids": [
+                58102
+              ]
+            },
+            "distance": "1966km",
+            "distance_in_meters": 1966314.0282233069,
+            "outlet_location_id": 2
+          },
+          {
+            "title": "Maestro Pizza",
+            "sub_title": "Sharjah, Al Majaz",
+            "image_url": "https://offerengine.theentertainerme.com/maestro-pizza-x23938297/merchant_primary_logo_%28retina%29_-_merchant202403051455.png",
+            "image_url_selected": "https://offerengine.theentertainerme.com/maestro-pizza-x23938297/merchant_primary_logo_%28retina%29_-_merchant202403051455.png",
+            "outlet_id": 121614,
+            "delivery_only_tag": 0,
+            "take_away_enabled": 0,
+            "merchant_id": 61906,
+            "merchant_category": "Restaurants and Bars",
+            "merchant_tags": [
+              {
+                "uid": "custom_types_buy_one_get_one_free",
+                "bg_color": "EAF3FF",
+                "identifier": "buy_one_get_one_free",
+                "abbreviated_text": "B1G1",
+                "title_color": "595959",
+                "icon": "https://b2cappassetscdn.theentertainerme.com/mega/outlet_tags/buy_one_get_one_free.png",
+                "title": "Buy one get one free",
+                "order_id": 2
+              }
+            ],
+            "sub_category_cuisine_attribute_ids": [
+              "sub_categories_4_78",
+              "attributes_4_564",
+              "attributes_4_96",
+              "attributes_4_393",
+              "attributes_4_748",
+              "informal_dining_takeaway_attributes_4_96",
+              "attributes_4_57",
+              "attributes_4_69",
+              "informal_dining_takeaway_sub_categories_4_78",
+              "attributes_4_54",
+              "attributes_4_72",
+              "cuisines_4_17",
+              "attributes_4_754",
+              "attributes_4_558",
+              "attributes_4_102"
+            ],
+            "in_active": false,
+            "remaining_outlet_count": 13,
+            "api_params": {
+              "outlet_id": 121614,
+              "merchant_id": 61906
+            },
+            "es_outlets_api_params": {
+              "m_ids": [
+                61906
+              ]
+            },
+            "distance": "1970km",
+            "distance_in_meters": 1969578.8112572385,
+            "outlet_location_id": 1
+          }
+        ]
+      }
+    ]
+  },
+  "cmd": "/pysearch/v2/mega-auto-suggestions?",
+  "http_response": 200,
+  "code": 0
+}
