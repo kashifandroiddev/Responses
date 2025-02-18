@@ -1,0 +1,121 @@
+{
+  "message": "success",
+  "success": true,
+  "data": {
+    "location_tags": [
+      {
+        "tag_id": 1,
+        "tag_label": "Home",
+        "tag_name": "Home",
+        "allow_custom_name": false,
+        "image_url": "https://b2cappassetscdn.theentertainerme.com/mega_delivery/location_home_round.png"
+      },
+      {
+        "tag_id": 2,
+        "tag_label": "Work",
+        "tag_name": "Work",
+        "allow_custom_name": false,
+        "image_url": "https://b2cappassetscdn.theentertainerme.com/mega_delivery/location_work_round.png"
+      },
+      {
+        "tag_id": 3,
+        "tag_label": "Hotel",
+        "tag_name": "Hotel",
+        "allow_custom_name": false,
+        "image_url": "https://b2cappassetscdn.theentertainerme.com/mega_delivery/location_hotel_round.png"
+      },
+      {
+        "tag_id": 4,
+        "tag_label": "Custom",
+        "tag_name": "Other",
+        "allow_custom_name": true,
+        "image_url": "https://b2cappassetscdn.theentertainerme.com/mega_delivery/location_other_round.png"
+      }
+    ],
+    "delivery_locations": [
+      {
+        "delivery_location_id": 218436,
+        "tag": {
+          "tag_name": "Hotel",
+          "tag_label": "Hotel",
+          "tag_id": 3,
+          "allow_custom_name": false,
+          "image_url": "https://b2cappassetscdn.theentertainerme.com/mega_delivery/location_hotel_round.png"
+        },
+        "title": "Hotel",
+        "home_office_address": "kashif",
+        "street": "bsbanwnwj",
+        "area_city": "Unnamed Road - Fujairah - United Arab Emirates",
+        "special_instructions": "ge",
+        "latitude": 25.128809,
+        "longitude": 56.326485,
+        "area": "kashif",
+        "nearby_landmarks": "",
+        "auto_select_range": 1000
+      },
+      {
+        "delivery_location_id": 224266,
+        "tag": {
+          "tag_name": "dubai office",
+          "tag_label": "dubai office",
+          "tag_id": 3,
+          "allow_custom_name": false,
+          "image_url": "https://b2cappassetscdn.theentertainerme.com/mega_delivery/location_hotel_round.png"
+        },
+        "title": "dubai office",
+        "home_office_address": "test",
+        "street": "dubai",
+        "area_city": "Dubai - Dubai - United Arab Emirates",
+        "special_instructions": "Please leave at the front desk.",
+        "latitude": 25.204849,
+        "longitude": 55.270782,
+        "area": "dubai",
+        "nearby_landmarks": "test landmark",
+        "auto_select_range": 1000
+      },
+      {
+        "delivery_location_id": 224268,
+        "tag": {
+          "tag_name": "home",
+          "tag_label": "home",
+          "tag_id": 3,
+          "allow_custom_name": false,
+          "image_url": "https://b2cappassetscdn.theentertainerme.com/mega_delivery/location_hotel_round.png"
+        },
+        "title": "home",
+        "home_office_address": "test",
+        "street": "dubai",
+        "area_city": "Dubai - Dubai - United Arab Emirates",
+        "special_instructions": "Please leave at the front desk.",
+        "latitude": 25.204849,
+        "longitude": 55.270782,
+        "area": "dubai",
+        "nearby_landmarks": "test landmark",
+        "auto_select_range": 1000
+      },
+      {
+        "delivery_location_id": 224289,
+        "tag": {
+          "tag_name": "Caravan",
+          "tag_label": "Caravan",
+          "tag_id": 4,
+          "allow_custom_name": true,
+          "image_url": "https://b2cappassetscdn.theentertainerme.com/mega_delivery/location_other_round.png"
+        },
+        "title": "Caravan",
+        "home_office_address": "190",
+        "street": "jira",
+        "area_city": "5 27a St - Al Rashidiya - Dubai - United Arab Emirates",
+        "special_instructions": "dcdsdscd",
+        "latitude": 25.222549,
+        "longitude": 55.390472,
+        "area": "38",
+        "nearby_landmarks": "NA",
+        "auto_select_range": 1000
+      }
+    ]
+  },
+  "code": 0,
+  "cmd": "/api_ets/v5/user/delivery_locations?",
+  "http_response": 200
+}
