@@ -1,0 +1,68 @@
+{
+  "success": true,
+  "message": "success",
+  "data": {
+    "bottom_section_title": "Having trouble redeeming? Report here",
+    "title": "Select concern type",
+    "tell_us_placholder": "Tell us more, if needed\u2026",
+    "submit_button_text": "Submit",
+    "customer_service_support_options": [
+      {
+        "category": "Couldn\u2019t Redeem",
+        "category_type": "not_redeem",
+        "sub_categories": [
+          {
+            "concern_id": 1,
+            "concern_identifier": "not_redeem_offer_refused",
+            "subcategory_name": "Outlet refused offer"
+          },
+          {
+            "concern_id": 3,
+            "concern_identifier": "not_redeem_outlet_closed",
+            "subcategory_name": "Outlet closed"
+          },
+          {
+            "concern_id": 5,
+            "concern_identifier": "not_redeem_not_permitted",
+            "subcategory_name": "Items selected not permitted for redemption"
+          }
+        ]
+      },
+      {
+        "category": "Technical Issues",
+        "category_type": "technical_issues",
+        "sub_categories": [
+          {
+            "concern_id": 7,
+            "concern_identifier": "technical_issues_redemption_not_working",
+            "subcategory_name": "Redemption didn\u2019t work"
+          },
+          {
+            "concern_id": 9,
+            "concern_identifier": "technical_issues_app_issue",
+            "subcategory_name": "App issues"
+          },
+          {
+            "concern_id": 11,
+            "concern_identifier": "technical_issues_pin_not_working",
+            "subcategory_name": "Pin didn\u2019t work"
+          }
+        ]
+      },
+      {
+        "category": "Other",
+        "category_type": "other",
+        "sub_categories": [
+          {
+            "concern_id": 13,
+            "concern_identifier": "other",
+            "subcategory_name": "Other"
+          }
+        ]
+      }
+    ]
+  },
+  "cmd": "/api_ets/v1/user/list-support-concerns?",
+  "http_response": 200,
+  "code": 0
+}
