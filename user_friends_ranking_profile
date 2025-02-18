@@ -1,0 +1,54 @@
+{
+  "message": "success",
+  "data": {
+    "friends_connect_referral_sections": {
+      "connect_section": {
+        "message": "Have friends who also use the ENTERTAINER? Invite them to connect with you, and track your savings on a leaderboard.",
+        "image_url": "https://b2cappassetscdn.theentertainerme.com/find_friend.jpg",
+        "share_link": "https://entcartut.theentertainerme.com/site/connectreferral/?_t=c&_i=Njc2MDQwMA==",
+        "smiles_new_registration": 0,
+        "smiles_product_purchase": 0,
+        "share_text": "Connect with me on The Entertainer, and lets compete to be the biggest saver:"
+      },
+      "referral_section": {
+        "message": "Share the ENTERTAINER with friends and family today. Don\u2019t keep all that moneysaving to yourself!",
+        "image_url": "https://b2cappassetscdn.theentertainerme.com/refer_friend.jpg",
+        "share_link": "https://entcartut.theentertainerme.com/products",
+        "smiles_new_registration": 0,
+        "smiles_product_purchase": 2500,
+        "share_text": "Share the ENTERTAINER with friends and family today. Don\u2019t keep all that moneysaving to yourself!",
+        "share_button_title": "Share link"
+      }
+    },
+    "user_friends_ranking": [
+      {
+        "user_id": 6760400,
+        "name": "You",
+        "profile_image": "https://entertainer-profile-images.s3.amazonaws.com/6760400_kcBMu8hrqnvBbLX6qdPC6fPdh6mj5R93.jpg",
+        "email": "kashif1234767@gmail.com",
+        "savings": 0,
+        "redemption_count": "0",
+        "currency": "AED",
+        "family_member": true,
+        "smiles": 41609,
+        "member_since": "19/07/2023"
+      },
+      {
+        "user_id": 9150985,
+        "name": "Shahid N.",
+        "profile_image": "https://entertainer-app-assets.s3.amazonaws.com/v7/ksasolo.png",
+        "email": "testqashahid.qa1@gmail.com",
+        "savings": 0,
+        "redemption_count": "",
+        "currency": "AED",
+        "family_member": false,
+        "smiles": 60,
+        "member_since": null
+      }
+    ]
+  },
+  "success": true,
+  "cmd": "/et_rs_prd/web/v801/user/friends/ranking?",
+  "http_response": 200,
+  "code": 0
+}
