@@ -1,0 +1,50 @@
+{
+  "data": {
+    "products": [
+      {
+        "section_title": "Dubai & N. Emirates",
+        "location_id": 1,
+        "sort_order": 1,
+        "products": [
+          {
+            "sku": "D25DBFMMB",
+            "id": 60131,
+            "names": [
+              "ENTERTAINER Dubai 2025"
+            ],
+            "product_validity_message": "Valid until 31 Dec 2025",
+            "product_purchased_message": "Purchased 14 Jan 2025",
+            "purchase_type": "card",
+            "purchase_type_text": "",
+            "purchase_type_text_color": "#0092cf",
+            "add_on_text": "Inclusions",
+            "add_ons": [
+              {
+                "id": 53368,
+                "name": "Dubai 2025"
+              },
+              {
+                "id": 53436,
+                "name": "Hotels Worldwide 2025"
+              }
+            ],
+            "purchase_count": 1,
+            "order_id": 2585340,
+            "is_subscribed": 2
+          }
+        ]
+      }
+    ]
+  },
+  "api_params": {
+    "language": "en",
+    "platform": "android",
+    "app_version": "9.10.12",
+    "build_no": null
+  },
+  "message": "",
+  "success": true,
+  "cmd": "/et_rs_prd/web/v801/user/products/history?",
+  "http_response": 200,
+  "code": 0
+}
