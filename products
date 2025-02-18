@@ -1,0 +1,64 @@
+{
+  "data": {
+    "products": [
+      {
+        "id": 60131,
+        "title": "ENTERTAINER Dubai 2025",
+        "product_description": "<div><ul><li>Over 7,000 Buy One Get One Free offers across Dubai and Northern Emirates</li><li>NEW for 2024 \u2013 your ENTERTAINER Dubai  includes all FINE DINING restaurant offers</li><li>Offers valid until end of 2024<br>Buy Now and unlock a world of savings.\r\n</li></ul></div>",
+        "thumb": "https://b2cappassetscdn.theentertainerme.com/v9/2025_website_images/dubai_thumb_ar.png",
+        "app_image": "https://b2cappassetscdn.theentertainerme.com/v9/2025_website_images/new/Product-Banner_DXB-343x129-EN.png",
+        "tagline": "Offers valid until end of 2024",
+        "sale_label": null,
+        "sale_label_color": null,
+        "tax_text": "(including VAT)\r\nMembership valid until 30/12/2025",
+        "badget_img2": "https://b2cappassetscdn.theentertainerme.com/v9/2025_website_images/dubai_2025_en.png",
+        "badget_img1": "https://b2cappassetscdn.theentertainerme.com/v9/2025_website_images/DXB-ENG-128x138.png",
+        "discount_price": "AED 625.00",
+        "original_price": "",
+        "location_id": 1,
+        "percentage_off": 5.0,
+        "is_privilege_club_product": 0,
+        "user_currency": "AED",
+        "is_purchased": false,
+        "discounted_amount": "625.00",
+        "deeplink": "entertainer://ProductDetail?product_id=60131",
+        "image_url": "https://b2cappassetscdn.theentertainerme.com/v7/products_images_app_v7/product_60131.png"
+      },
+      {
+        "id": 60132,
+        "title": "ENTERTAINER GCC 2025",
+        "product_description": "<div><ul><li>Over 20,000 Buy One Get One Free offers across Dubai, Abu Dhabi, Qatar, KSA, Bahrain, Oman and Kuwait\u200b</li>\r\n<li>\u200bA saving of AED1,400 off the combined RRP for all GCC products </li>\r\n<li>Perfect for the regional jetsetter to save on the go.<br>Buy Now and unlock a world of savings.\r\n</li>\r\n</ul></div>",
+        "thumb": "https://b2cappassetscdn.theentertainerme.com/v9/2025_website_images/gcc_thumb_en.png",
+        "app_image": "https://b2cappassetscdn.theentertainerme.com/v9/2025_website_images/new/Product-Banner_GCC-343x129-EN.png",
+        "tagline": "Offers valid until end of 2024",
+        "sale_label": null,
+        "sale_label_color": null,
+        "tax_text": "(including VAT)\r\nMembership valid until 30/12/2025",
+        "badget_img2": "https://b2cappassetscdn.theentertainerme.com/v9/2025_website_images/gcc_2025_en.png",
+        "badget_img1": "https://b2cappassetscdn.theentertainerme.com/v9/2025_website_images/GCC-ENG-128x138.png",
+        "discount_price": "AED 715.50",
+        "original_price": "",
+        "location_id": 1,
+        "percentage_off": 5.0,
+        "is_privilege_club_product": 0,
+        "user_currency": "AED",
+        "is_purchased": false,
+        "discounted_amount": "715.50",
+        "deeplink": "entertainer://ProductDetail?product_id=60132",
+        "image_url": "https://b2cappassetscdn.theentertainerme.com/v7/products_images_app_v7/product_60132.png"
+      }
+    ]
+  },
+  "api_params": {
+    "language": "en",
+    "location_id": 1,
+    "platform": "android",
+    "app_version": "9.10.12",
+    "build_no": null
+  },
+  "message": "",
+  "success": true,
+  "cmd": "/et_rs_prd/web/v801/user/products?",
+  "http_response": 200,
+  "code": 0
+}
