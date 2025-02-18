@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "message": "success",
+  "data": {
+    "title": "Thank you for your feedback",
+    "sub_title": "Our customer support team will look into it and take appropriate action!",
+    "done_button_text": "Done ",
+    "request_a_call_text": "Request a call to discuss further"
+  },
+  "cmd": "/api_ets/v1/user/submit-concern?",
+  "http_response": 200,
+  "code": 0
+}
