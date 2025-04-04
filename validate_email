@@ -1,7 +1,7 @@
 {
   "data": {
     "message": "Email already exists",
-    "is_user_exist": true
+    "is_user_exist": false
   },
   "message": "Email already exists",
   "title": "Email already exists",
