@@ -110,6 +110,21 @@
     "sub_title": "Redeem Now",
     "image_p1_v9": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/06+-+Cold+Stone+-+X086356/REV-X086356-1.jpg",
     "merchant_logo_url": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/06+-+Cold+Stone+-+X086356/logo-250.jpg"
+  },
+ {
+    "tile_id": 1,
+    "is_deep_link": "1",
+    "sort_order": 0,
+    "deep_link": "entertainer://MerchantDetailPage?outlet_id=10565&merchant_id=6106",
+    "image": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/01+-+Crescendo+-+X21502076/X21502076_1.jpg",
+    "dynamic_name": "Hi kashif,",
+    "tile_type_analytics": "offers",
+    "image_p1": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/01+-+Crescendo+-+X21502076/X21502076_1.jpg",
+    "message": "2for1\r\nBrunch",
+    "button_title": "2for1\r\nBrunch",
+    "sub_title": "Redeem Now",
+    "image_p1_v9": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/01+-+Crescendo+-+X21502076/X21502076_1.jpg",
+    "merchant_logo_url": "https://entertainer-app-assets.s3.us-east-1.amazonaws.com/v9/jan_2025_hero-banner/OneDrive_1_12-31-2024/OneDrive_1_1-13-2025/Dubai+(15-31+Jan)/01+-+Crescendo+-+X21502076/Logo.jpg"
   }
 ],
         "show_all": "",
